@@ -1,0 +1,33 @@
+{% comment %}
+prefooter_campaign v0.2
+{% endcomment %}
+---
+
+## Timeline of Events
+
+{%
+    assign pagesFromHere = site.pages
+    | where_exp: "item", "item.dir contains page.dir"
+    | where_exp: "item", "item.timestamp" 
+    | sort: 'timestamp'
+%}
+<p>
+{% for entry in pagesFromHere %}
+    {% if entry.path != page.path %}
+        {{ entry.region}}: <a href="{{ site.url }}{{ entry.url }}">{{ entry.title }}</a>
+        {% if page.url == '/' %}
+            ({{ entry.parent }})
+        {% endif %}
+        <br>
+    {% endif %}
+{% endfor %}
+</p>
+
+{% comment %}
+
+{% if page.url != '/' %}
+
+    {% include connected_to.md %}
+
+{% endif %}
+{% endcomment %}

@@ -1,0 +1,36 @@
+title: Cy_Borg
+description: Cy_Borg RPG Adventures
+theme: just-the-docs
+
+url: https://terra-campaigns.github.io/unsettled
+
+permalink: pretty
+plugins:
+  - jekyll-relative-links
+  - jekyll-redirect-from
+
+aux_links:
+  Repository: https://github.com/TJ-rpg/cyborg
+
+favicon_ico: "/imgs/favicon.ico"
+
+# External navigation links
+#nav_external_links:
+#  - title: Terra Odd SRD
+#    url: https://terra-campaigns.github.io/terraOdd/cairn-srd/
+#    hide_icon: false # set to true to hide the external link icon - defaults to false
+#    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
+color_scheme: site
+
+# Back to top link
+# back_to_top: true
+# back_to_top_text: "Back to top"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/terra-campaigns/unsettled" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately

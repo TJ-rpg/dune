@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=UnifrakturMaguntia&display=swap');
+
+body{
+  font-family: 'Alegreya', serif;
+  font-weight: 400;
+  font-size: 1.1rem;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Averia Serif Libre";
+  font-weight: 700;
+  font-style: normal;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+tr:nth-child(even) td {
+  background-color: #2e2d33;
+}
+
+tr:nth-child(odd) td {
+  background-color: var(--background-color);
+}
+
+th, td {
+  min-width: initial;
+  padding-top: .35rem;
+  padding-bottom: .35rem;
+  padding-right: .5rem;
+  padding-left: .5rem;
+}
+
+td {
+  border-bottom: 0;
+  border-left: 0;
+  font-size: 1rem !important;
+}
+
+thead{
+  display: none;
+}
+
+tbody tr:last-of-type td{
+  padding-bottom: .35rem;
+}
+
+.nav-list .nav-list-item .nav-list-link {
+font-size: 1rem;
+}
+
+/* Calendar */
+.calendar-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.calendar-month {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 2rem);
+  line-height: 1.5rem;
+  text-align: center;
+}
+
+.calendar-event {
+  color: #82A69C;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.calendar-event:hover {
+  color: lighten(#82A69C, 10%);
+}

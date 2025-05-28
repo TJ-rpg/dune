@@ -1,0 +1,187 @@
+{% if page.title != 'Directory' %}
+
+{% assign children_pages = site.pages | where: 'parent', page.title %}
+
+{% assign links_pages = "" | split: "," %}
+{% for entry in site.data.markdown_links.file[page.path] %}
+	{% assign captured_page = site.pages | where: 'path', entry.url %}
+	{% assign links_pages = links_pages | push: captured_page[0] | uniq %}
+{% endfor %}
+
+{% assign all_references = children_pages | push: links_pages | uniq | sort: 'nav_order' | where_exp:"item", "item.nav_exclude != true" %}
+
+{% else %}
+
+{% assign all_references =  site.pages | where_exp:"item", "item.path contains 'directory/'" | where_exp:"item", "item.nav_exclude != true" %}
+
+{% endif %}
+
+{% comment %}
+Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
+{% endcomment %}
+
+<style>
+  .image-gallery {overflow: auto; margin-left: -1%!important;}
+  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+  .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+  .image-gallery a img {width: 100%; display: block;}
+</style>
+
+{% assign count = page.images | size %}
+{% if count > 0 %}
+
+<p>
+  <br>
+</p>
+{: .text-delta }
+
+<div class="image-gallery">
+  {% for image in page.images %}
+    <a href="{{ site.url }}{{ image | relative_url }}" title="{{ page.title }}">
+      <img src="//wsrv.nl/?url={{ site.url }}{{ image | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ page.title }}"/>
+    </a>
+  {% endfor %}
+</div>
+{: .text-delta }
+{% endif %}
+
+---
+
+{% assign count = all_references | where: 'type', 'people' | size %}
+{% if count > 0 %}
+<p>
+<b>People</b>
+</p>
+{: .text-delta }
+
+<div class="image-gallery">
+  {% for my_page in all_references %}
+    {% if my_page.type == 'people' %}
+      {% if my_page.images %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a>
+      {% else %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url=https://terra-campaigns.github.io/unsettled/imgs/people.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a> 
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+{: .text-delta }
+{% endif %}
+
+{% assign count = all_references | where: 'type', 'faction' | size %}
+{% if count > 0 %}
+<p>
+<b>Factions</b>
+</p>
+{: .text-delta }
+
+<div class="image-gallery">
+  {% for my_page in all_references %}
+    {% if my_page.type == 'faction' %}
+      {% if my_page.images %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a>
+      {% else %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url=https://terra-campaigns.github.io/unsettled/imgs/faction.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a> 
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+{: .text-delta }
+{% endif %}
+
+{% assign count = all_references | where: 'type', 'location' | size %}
+{% if count > 0 %}
+<p>
+<b>Locations</b>
+</p>
+{: .text-delta }
+
+<div class="image-gallery">
+  {% for my_page in all_references %}
+    {% if my_page.type == 'location' %}
+      {% if my_page.images %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a>
+      {% else %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url=https://terra-campaigns.github.io/unsettled/imgs/location.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a> 
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+{: .text-delta }
+{% endif %}
+
+{% assign count = all_references | where: 'type', 'creature' | size %}
+{% if count > 0 %}
+<p>
+<b>Folklore</b>
+</p>
+{: .text-delta }
+
+<div class="image-gallery">
+  {% for my_page in all_references %}
+    {% if my_page.type == 'creature' %}
+      {% if my_page.images %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a>
+      {% else %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.title }}</span>
+          <img src="//wsrv.nl/?url=https://terra-campaigns.github.io/unsettled/imgs/folklore.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a> 
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+{: .text-delta }
+{% endif %}
+
+{% assign count = all_references | where: 'type', 'session' | size %}
+{% if count > 0 %}
+<p>
+<b>Chapters</b>
+</p>
+{: .text-delta }
+
+<div class="image-gallery">
+  {% for my_page in all_references %}
+    {% if my_page.type == 'session' %}
+      {% if my_page.images %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.timestamp | date: "%B %-d" }}</span>
+          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a>
+      {% else %}
+        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.title }}">
+          <span>{{ my_page.timestamp | date: "%B %-d" }}</span>
+          <img src="//wsrv.nl/?url=https://terra-campaigns.github.io/unsettled/imgs/chapter.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{ my_page.title }}"/>
+        </a>   
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+{: .text-delta }
+{% endif %}
+
+{% comment %}
+connected_to v0.6.0
+{% endcomment %}

@@ -6,41 +6,38 @@ nav_order: 1
 footer_content:
 ---
 
-**Cy_Borg**
+**Dune: Adventures in the Imperium**
 {: .text-alpha }
 
-![](imgs/Pasted%20image%2020250422153350.png)
----
-## Appendix N
+![[Pasted image 20250528174804.png]]
 
-*Smell* the world, *see* the ***Cy_Borg*** art board.
 
-<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=tomjohnson1891/cy_borg/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="652" frameBorder="0" style="color-scheme: site" allowfullscreen=""></iframe>
+*Smell* the spice, *see* the ***Dune*** art board.
+<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=tomjohnson1891/dune-adventures-in-the-imperium/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="652" frameBorder="0" style="color-scheme: site" allowfullscreen=""></iframe>
 
-*Feel* the world, *listen* to the ***Cy_Borg*** playlist.
+*Feel* the world, *listen* to the ***Dune*** playlist.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2sUxSAIZ3HIFs7Cjo9euON?si=827b530620e84900" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/06CXEE6S0MF2xfnf7mX7KI?si=vb46pxrDRQKf_y0UeK9RAg&pi=5D0JiSPLRhSeU" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Films & Books
 
-[Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) (1984 book)  
-[The Matrix](https://www.imdb.com/title/tt0133093/) (1999 film)  
-[Blade Runner](https://www.imdb.com/title/tt0083658/) (1982 film) 
+[Dune Book Series](https://archive.org/details/frank-herberts-dune-saga-collection-books-1-6-by-frank-herbert-z-lib.org/mode/1up) 
+[Dune Encyclopaedia](https://archive.org/details/dune-encyclopedia/page/n1/mode/1up) 
+[Dune Audiobook](https://open.spotify.com/show/7iHfbu1YPACw6oZPAFJtqe?si=-5MmdhMjTzCMoqSssMk6lQ) 
+[Dune: Part One](https://open.spotify.com/show/7iHfbu1YPACw6oZPAFJtqe?si=-5MmdhMjTzCMoqSssMk6lQ) (2021 film)
+[Dune: Part Two](https://www.imdb.com/title/tt15239678/?ref_=ext_shr_lnk) (2024 film)
 
----
-## Open Table
+## Campaign Details
 
 **GM:** TJ (Tom)  
-**Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Frequency**: ~Once a month  
-**Time & Duration**: 1945 UTC for 2~3h  
-**Sign-up**: First come first served, 2 to 4 players  
-**TTRPG system**: [Cy_Borg](https://freeleaguepublishing.com/games/cy_borg/)  
-**Genre**: Dark Cyberpunk  
-**VTT**: Owlbear Rodeo  
-**Language**: English  
-**Communication**: Discord voice (video is optional)  
-**Content warnings**: violence, physical harm, death, torture, body mutation / augmentation, drug use, crime, horror beasts, gambling, mental health, aliens, insects  
+**Format**: Open Table in person  
+**Frequency**: ~Fortnightly on Tuesdays  
+**Time & Duration**: 1800-2200    
+**Sign-up**: First come first served, 3 to 5 players  
+**TTRPG system**: [Dune: Adventures in the Imperium](https://modiphius.net/collections/dune-adventures-in-the-imperium?srsltid=AfmBOoqHLlDEPXr5xEbOxYzU4pX08wXEr_bEuctoovPuJBuxUbZUABhg/)  
+**Genre**: Science Fiction  
+**Communication**: Discord: [Sign up on East Bristol Adventurers](https://discord.gg/g3uAFm3J)
+**Content warnings**: violence, physical harm, death, torture, drug use, crime, insects  
 
 
 {% comment %} Session text

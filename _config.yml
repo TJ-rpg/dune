@@ -1,16 +1,15 @@
-title: Cy_Borg
-description: Cy_Borg RPG Adventures
+title: Dune
+description: Campaign website for Dune: Adventures in the Imperium
 theme: just-the-docs
 
-url: https://terra-campaigns.github.io/unsettled
-
+url: https://tj-rpg.github.io/dune
 permalink: pretty
 plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
 
 aux_links:
-  Repository: https://github.com/TJ-rpg/cyborg
+  Repository: https://github.com/TJ-rpg/dune
 
 favicon_ico: "/imgs/favicon.ico"
 

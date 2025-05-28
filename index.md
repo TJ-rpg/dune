@@ -9,7 +9,7 @@ footer_content:
 **Dune: Adventures in the Imperium**
 {: .text-alpha }
 
-![[Pasted image 20250528174804.png]]
+![[Pasted image 20250528194420.png]]
 
 
 *Smell* the spice, *see* the ***Dune*** art board.
@@ -21,11 +21,11 @@ footer_content:
 
 ### Films & Books
 
-[Dune Book Series](https://archive.org/details/frank-herberts-dune-saga-collection-books-1-6-by-frank-herbert-z-lib.org/mode/1up) 
-[Dune Encyclopaedia](https://archive.org/details/dune-encyclopedia/page/n1/mode/1up) 
-[Dune Audiobook](https://open.spotify.com/show/7iHfbu1YPACw6oZPAFJtqe?si=-5MmdhMjTzCMoqSssMk6lQ) 
-[Dune: Part One](https://open.spotify.com/show/7iHfbu1YPACw6oZPAFJtqe?si=-5MmdhMjTzCMoqSssMk6lQ) (2021 film)
-[Dune: Part Two](https://www.imdb.com/title/tt15239678/?ref_=ext_shr_lnk) (2024 film)
+[Dune Book Series](https://archive.org/details/frank-herberts-dune-saga-collection-books-1-6-by-frank-herbert-z-lib.org/mode/1up)  
+[Dune Encyclopaedia](https://archive.org/details/dune-encyclopedia/page/n1/mode/1up)  
+[Dune Audiobook](https://open.spotify.com/show/7iHfbu1YPACw6oZPAFJtqe?si=-5MmdhMjTzCMoqSssMk6lQ)  
+[Dune: Part One](https://open.spotify.com/show/7iHfbu1YPACw6oZPAFJtqe?si=-5MmdhMjTzCMoqSssMk6lQ) (2021 film)  
+[Dune: Part Two](https://www.imdb.com/title/tt15239678/?ref_=ext_shr_lnk) (2024 film)  
 
 ## Campaign Details
 
@@ -36,7 +36,7 @@ footer_content:
 **Sign-up**: First come first served, 3 to 5 players  
 **TTRPG system**: [Dune: Adventures in the Imperium](https://modiphius.net/collections/dune-adventures-in-the-imperium?srsltid=AfmBOoqHLlDEPXr5xEbOxYzU4pX08wXEr_bEuctoovPuJBuxUbZUABhg/)  
 **Genre**: Science Fiction  
-**Communication**: Discord: [Sign up on East Bristol Adventurers](https://discord.gg/g3uAFm3J)
+**Communication**: Discord: [Sign up on East Bristol Adventurers](https://discord.gg/g3uAFm3J)  
 **Content warnings**: violence, physical harm, death, torture, drug use, crime, insects  
 
 

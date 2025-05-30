@@ -1,16 +1,15 @@
 ---
 layout: default
-title: 2025
+title: The Spice Must Flow
 template: 0.4
 has_children: true
 nav_order: 5
-has_toc: FALSE
-nav_exclude: FALSE
-
-footer_content: 
-
+has_toc: false
+nav_exclude: false
+footer_content:
 ---
 
 {% include header_directories.md %}
 
 
+[Chapter 0](Chapter%200)

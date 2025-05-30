@@ -9,7 +9,7 @@ footer_content:
 **Dune: Adventures in the Imperium**
 {: .text-alpha }
 
-![[Pasted image 20250528194420.png]]
+![](Pasted%20image%2020250530112500.png)
 
 
 *Smell* the spice, *see* the ***Dune*** art board.

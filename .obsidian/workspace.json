@@ -11,12 +11,14 @@
             "id": "c9b023bd76de9108",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "imgs/Pasted image 20250528194420.png"
+                "file": "campaigns/The Spice Must Flow/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250528194420"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -170,17 +172,18 @@
   "lastOpenFiles": [
     "campaigns/The Spice Must Flow/Chapter 0.md",
     "campaigns/The Spice Must Flow/index.md",
+    "index.md",
+    "_config.yml.sb-208efd29-pjvw9f",
+    "systems/index.md",
+    "imgs/Pasted image 20250528194420.png",
     "[Chapter 0.md",
     "Untitled.canvas",
     "_includes/connected_to.md",
     "_includes/header_directories.md",
     "_includes/header_chapter.md",
-    "systems/index.md",
-    "index.md",
     "systems/perchance/chargen_rhs.html",
     "systems/perchance/chargen_lhs.md",
     "systems/perchance",
-    "imgs/Pasted image 20250528194420.png",
     "imgs/Pasted image 20250422152142.png",
     "imgs/Pasted image 20250422152123.png",
     "imgs/Pasted image 20250422152102.png",

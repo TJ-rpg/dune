@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Houses/placeholder for PC house.md",
+                "file": "Dune - Adventures in the Imperium Systems/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "placeholder for PC house"
+              "title": "index"
             }
           }
         ]
@@ -170,17 +170,19 @@
   },
   "active": "c9b023bd76de9108",
   "lastOpenFiles": [
+    "index.md",
+    "Dune - Adventures in the Imperium Systems/index.md",
+    "imgs/Pasted image 20250531132905.png",
+    "Pasted image 20250531132829.png",
+    "directory/Houses/placeholder for PC house.md",
     "directory/Houses/index.md",
     "directory/Non-Player Characters/index.md",
     "directory/Player Characters/index.md",
     "directory/Player Characters/Placeholder for PC.md",
     "_includes/header_directories.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
-    "directory/Houses/placeholder for PC house.md",
     "(placeholder for PC house.md",
     "directory/index.md",
-    "index.md",
-    "systems/index.md",
     "campaigns/The_Spice_Must_Flow/Chapter_0.md",
     "campaigns/The_Spice_Must_Flow/index.md",
     "misc/index.md",

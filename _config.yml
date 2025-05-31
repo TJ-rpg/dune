@@ -8,8 +8,6 @@ plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
 
-aux_links:
-  Repository: https://github.com/TJ-rpg/dune
 
 favicon_ico: "/imgs/favicon.ico"
 

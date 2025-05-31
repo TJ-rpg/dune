@@ -1,4 +1,4 @@
-# Cy_Borg Campaign Template
+# Dune Campaign Template
 
 
 This is a *bare-minimum* template to create a [Jekyll] site that:

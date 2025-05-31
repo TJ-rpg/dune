@@ -7,9 +7,9 @@ nav_order: 99
 
 ---
 
-# ***Cy_Borg***
+# ***Dune: Adventures in the Imperium***
 
-- The ***Cy_Borg*** core rules and extras are available to buy [here.](https://freeleaguepublishing.com/shop/cy_borg/)
+- The ***Dune: Adventures in the Imperium*** rulebook is accessible using [this Google Drive link.](https://drive.google.com/file/d/1HIJ-eAKioLQRO0FPb2MuwCNvTLo94OQ1/view?usp=drivesdk)
 
 ## Character Generation
 

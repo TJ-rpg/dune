@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Dune: Adventures in the Imperium Systems"
+title: "Dune: Adventures in the Imperium System"
 has_children: false
 has_toc: false
 nav_order: 99

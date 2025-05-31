@@ -1,16 +1,12 @@
 ---
 layout: default
-title: Directory
+title: Houses
 template: 0.4
 has_children: true
 nav_order: 51
 has_toc: false
-
+parent: Directory
 ---
-[Houses](Houses)
-[Non-Player Characters](Non-Player Characters)
-[Player Characters](Player Characters)
-
 
 {% comment %}
 

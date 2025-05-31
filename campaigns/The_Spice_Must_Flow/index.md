@@ -10,6 +10,4 @@ footer_content:
 ---
 
 {% include header_directories.md %}
-**The Spice Must Flow**
-
-[[Chapter 0]]
+[[Chapter_0]]

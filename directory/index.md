@@ -7,9 +7,9 @@ nav_order: 51
 has_toc: false
 
 ---
-[Houses](Houses)
-[Non-Player Characters](Non-Player Characters)
-[Player Characters](Player Characters)
+[Houses](Houses)  
+[Non-Player Characters](Non-Player Characters)  
+[Player Characters](Player Characters)  
 
 
 {% comment %}

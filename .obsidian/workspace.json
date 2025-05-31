@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Houses/Adair.md",
+                "file": "directory/Houses/placeholder for PC house.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adair"
+              "title": "placeholder for PC house"
             }
           }
         ]
@@ -171,10 +171,13 @@
   "active": "c9b023bd76de9108",
   "lastOpenFiles": [
     "directory/Houses/index.md",
-    "directory/Non-Player Characters/Adair.md",
     "directory/Non-Player Characters/index.md",
-    "directory/Player Characters/Adair.md",
     "directory/Player Characters/index.md",
+    "directory/Player Characters/Placeholder for PC.md",
+    "_includes/header_directories.md",
+    "directory/Non-Player Characters/Placeholder for NPC.md",
+    "directory/Houses/placeholder for PC house.md",
+    "(placeholder for PC house.md",
     "directory/index.md",
     "index.md",
     "systems/index.md",
@@ -182,7 +185,6 @@
     "campaigns/The_Spice_Must_Flow/index.md",
     "misc/index.md",
     "misc/example.md",
-    "directory/Houses/Adair.md",
     "_includes/header_chapter.md",
     "directory/Houses",
     "directory/Non-Player Characters",
@@ -191,7 +193,6 @@
     "_config.yml.sb-208efd29-pjvw9f",
     "imgs/Pasted image 20250528194420.png",
     "[Chapter 0.md",
-    "_includes/header_directories.md",
     "systems/perchance/chargen_rhs.html",
     "systems/perchance/chargen_lhs.md",
     "systems/perchance",

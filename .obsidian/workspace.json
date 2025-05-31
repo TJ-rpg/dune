@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "systems/index.md",
+                "file": "directory/Houses/Adair.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Adair"
             }
           }
         ]
@@ -168,26 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12ccd2c743b0bf4d",
+  "active": "c9b023bd76de9108",
   "lastOpenFiles": [
-    "misc/index.md",
-    "misc/example.md",
-    "systems/index.md",
+    "directory/Houses/index.md",
+    "directory/Non-Player Characters/Adair.md",
+    "directory/Non-Player Characters/index.md",
     "directory/Player Characters/Adair.md",
     "directory/Player Characters/index.md",
-    "directory/Non-Player Characters/index.md",
-    "directory/Houses/index.md",
-    "directory/Houses/Adair.md",
-    "directory/Non-Player Characters/Adair.md",
     "directory/index.md",
+    "index.md",
+    "systems/index.md",
+    "campaigns/The_Spice_Must_Flow/Chapter_0.md",
     "campaigns/The_Spice_Must_Flow/index.md",
+    "misc/index.md",
+    "misc/example.md",
+    "directory/Houses/Adair.md",
     "_includes/header_chapter.md",
     "directory/Houses",
     "directory/Non-Player Characters",
-    "campaigns/The_Spice_Must_Flow/Chapter_0.md",
     "_includes/connected_to.md",
     "Untitled.canvas",
-    "index.md",
     "_config.yml.sb-208efd29-pjvw9f",
     "imgs/Pasted image 20250528194420.png",
     "[Chapter 0.md",

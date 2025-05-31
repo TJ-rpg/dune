@@ -3,17 +3,13 @@ layout: default
 template: 0.4
 type: people
 nav_exclude: false
-
-parent: Player Characters
+parent: Houses
 title: Adair
 role: Rill Runner
-status:
+status: 
 flavour: You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
-
-image:
-
+image: 
 details:
-
 ---
 
 {% include header_directories.md %}

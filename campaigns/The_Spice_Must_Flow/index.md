@@ -10,4 +10,4 @@ footer_content:
 ---
 
 {% include header_directories.md %}
-[[Chapter_0]]
+[Chapter 0](Chapter_0)

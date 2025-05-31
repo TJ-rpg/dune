@@ -2,11 +2,10 @@
 title: Home
 layout: home
 nav_order: 1
-
 footer_content:
 ---
 
-**Dune: Adventures in the Imperium**
+# ***Dune: Adventures in the Imperium***
 {: .text-alpha }
 
 ![](imgs/Pasted%20image%2020250528194420.png)

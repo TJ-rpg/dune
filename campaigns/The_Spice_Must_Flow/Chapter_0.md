@@ -8,3 +8,4 @@ timestamp: 2025-06-10
 region: The Spice Must Flow
 images:
 ---
+{% include header_directories.md %}

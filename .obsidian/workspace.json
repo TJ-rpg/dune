@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/The_Spice_Must_Flow/index.md",
+                "file": "directory/Houses/House_Corrino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "House_Corrino"
             }
           }
         ]
@@ -170,24 +170,24 @@
   },
   "active": "c9b023bd76de9108",
   "lastOpenFiles": [
-    "campaigns/The_Spice_Must_Flow/Chapter_0.md",
-    "campaigns/The_Spice_Must_Flow/Introduction.md",
-    "campaigns/The_Spice_Must_Flow/index.md",
-    "directory/Houses/House_Corrino.md",
-    "directory/Non-Player Characters/index.md",
-    "directory/Houses/placeholder for PC house.md",
-    "directory/Non-Player Characters/Placeholder for NPC.md",
-    "directory/index.md",
-    "directory/Player Characters/index.md",
-    "directory/Houses/index.md",
     "imgs/EyInavZWEAEM_0J.png",
+    "directory/Houses/House_Corrino.md",
+    "directory/Player Characters/Placeholder for PC.md",
+    "directory/Player Characters/index.md",
+    "directory/Non-Player Characters/Placeholder for NPC.md",
+    "directory/Non-Player Characters/index.md",
+    "directory/Houses/index.md",
+    "directory/Houses/placeholder for PC house.md",
+    "campaigns/The_Spice_Must_Flow/index.md",
+    "campaigns/The_Spice_Must_Flow/Introduction.md",
+    "campaigns/The_Spice_Must_Flow/Chapter_0.md",
+    "_includes/header_directories.md",
+    "directory/index.md",
     "imgs/HouseCorrino.png",
     "Dune - Adventures in the Imperium System/index.md",
     "index.md",
     "imgs/Pasted image 20250531132905.png",
     "imgs/Pasted image 20250528194420.png",
-    "directory/Player Characters/Placeholder for PC.md",
-    "_includes/header_directories.md",
     "_includes/header_chapter.md",
     "misc/example.md",
     "misc/index.md",

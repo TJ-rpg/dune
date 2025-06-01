@@ -6,7 +6,8 @@ parent: The Spice Must Flow
 nav_order: 21
 timestamp: 2025-06-01
 region: The Spice Must Flow
-images:
+images: 
+template: 0.4
 ---
 {% include header_directories.md %}
 “To walk the sands of Arrakis is to tread upon the edge of survival. Only the strong and cunning prevail. There is power to be taken here, however, Dune does not grant that power or its secrets without exacting a price. But there are fortunes to be made here if one has the will, and the right allies. Arrakis is a place where the unexpected becomes the norm, where the sands shift and the winds howl, and where the spice flows like the lifeblood of the universe. To master Arrakis is to master the balance between survival and ambition.”  

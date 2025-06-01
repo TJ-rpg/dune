@@ -14,7 +14,9 @@ details:
 
 {% include header_directories.md %}
 
-![](imgs/EyInavZWEAEM_0J.png)
+
+![](HouseCorrino.png)
+
 
 - House Status: Great House  
 - Home World: Kaitan  

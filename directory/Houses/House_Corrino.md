@@ -13,9 +13,7 @@ details:
 ---
 
 {% include header_directories.md %}
-
-![](EyInavZWEAEM_0J.png)  
-
+![](EyInavZWEAEM_0J.png)
 
 - House Status: Great House  
 - Home World: Kaitan  

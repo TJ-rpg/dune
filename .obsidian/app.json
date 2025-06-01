@@ -3,5 +3,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "imgs",
   "useMarkdownLinks": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "showLineNumber": false,
+  "readableLineLength": true
 }

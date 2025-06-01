@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 345.5
   },
   "right": {
     "id": "2696fe70770d8345",
@@ -170,9 +170,12 @@
   },
   "active": "c9b023bd76de9108",
   "lastOpenFiles": [
-    "favicon.ico",
     "imgs/EyInavZWEAEM_0J.png",
     "directory/Houses/House_Corrino.md",
+    "Dune - Adventures in the Imperium System/index.md",
+    "index.md",
+    "EyInavZWEAEM_0J.md",
+    "favicon.ico",
     "directory/Player Characters/Placeholder for PC.md",
     "directory/Player Characters/index.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
@@ -185,8 +188,6 @@
     "_includes/header_directories.md",
     "directory/index.md",
     "imgs/HouseCorrino.png",
-    "Dune - Adventures in the Imperium System/index.md",
-    "index.md",
     "imgs/Pasted image 20250531132905.png",
     "imgs/Pasted image 20250528194420.png",
     "_includes/header_chapter.md",
@@ -213,7 +214,6 @@
     "imgs/Pasted image 20250530112500.png",
     "campaigns/The_Spice_Must_Flow",
     "![[B72415EE-B038-454D-8793-FDB1A1BEFACE.md",
-    "B72415EE-B038-454D-8793-FDB1A1BEFACE 2.heic",
-    "B72415EE-B038-454D-8793-FDB1A1BEFACE 1.heic"
+    "B72415EE-B038-454D-8793-FDB1A1BEFACE 2.heic"
   ]
 }

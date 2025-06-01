@@ -14,8 +14,7 @@ details:
 
 {% include header_directories.md %}
 
-
-![](imgs/HouseCorrino.png)
+![](EyInavZWEAEM_0J.png)
 
 
 - House Status: Great House  

@@ -9,6 +9,6 @@ nav_exclude: false
 footer_content:
 ---
 
-{% include header_directories.md %}
-[Introduction](Introduction)
-[Chapter 0](Chapter_0)
+{% include header_directories.md %} 
+[Introduction](Introduction)  
+[Chapter 0](Chapter_0)  

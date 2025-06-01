@@ -14,4 +14,11 @@ details:
 
 {% include header_directories.md %}
 
-- **Notes**
+- House Status: 
+- Home World: 
+- House Traits:
+- Primary domain: 
+- Secondary domains: 
+- Key Figures: 
+- Relationship with your House: 
+- Notes:

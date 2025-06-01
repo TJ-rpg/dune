@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dune - Adventures in the Imperium System/index.md",
+                "file": "directory/Houses/House_Corrino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "House_Corrino"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.5
   },
   "right": {
     "id": "2696fe70770d8345",
@@ -170,32 +170,34 @@
   },
   "active": "c9b023bd76de9108",
   "lastOpenFiles": [
-    "_config.yml.sb-208efd29-emT4iK",
-    "index.md",
-    "Dune - Adventures in the Imperium System/index.md",
-    "gazetteer/index.md",
-    "directory/index.md",
-    "imgs/Pasted image 20250531132905.png",
-    "Pasted image 20250531132829.png",
-    "directory/Houses/placeholder for PC house.md",
     "directory/Houses/index.md",
-    "directory/Non-Player Characters/index.md",
-    "directory/Player Characters/index.md",
+    "directory/Houses/placeholder for PC house.md",
+    "directory/Houses/House_Corrino.md",
+    "index.md",
+    "imgs/EyInavZWEAEM_0J.png",
     "directory/Player Characters/Placeholder for PC.md",
     "_includes/header_directories.md",
+    "_includes/header_chapter.md",
+    "misc/example.md",
+    "misc/index.md",
+    "imgs/Pasted image 20250528194420.png",
+    "imgs/Pasted image 20250531132905.png",
+    "directory/Player Characters/index.md",
+    "Dune - Adventures in the Imperium System/index.md",
+    "gazetteer/index.md",
+    "_config.yml.sb-208efd29-emT4iK",
+    "directory/index.md",
+    "Pasted image 20250531132829.png",
+    "directory/Non-Player Characters/index.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
     "(placeholder for PC house.md",
     "campaigns/The_Spice_Must_Flow/Chapter_0.md",
     "campaigns/The_Spice_Must_Flow/index.md",
-    "misc/index.md",
-    "misc/example.md",
-    "_includes/header_chapter.md",
     "directory/Houses",
     "directory/Non-Player Characters",
     "_includes/connected_to.md",
     "Untitled.canvas",
     "_config.yml.sb-208efd29-pjvw9f",
-    "imgs/Pasted image 20250528194420.png",
     "[Chapter 0.md",
     "systems/perchance/chargen_rhs.html",
     "systems/perchance/chargen_lhs.md",
@@ -208,10 +210,8 @@
     "imgs/Pasted image 20250530112500.png",
     "campaigns/The_Spice_Must_Flow",
     "imgs/Pasted image 20250528174804.png",
-    "imgs/Pasted image 20250422153350.png",
     "![[B72415EE-B038-454D-8793-FDB1A1BEFACE.md",
     "B72415EE-B038-454D-8793-FDB1A1BEFACE 2.heic",
-    "B72415EE-B038-454D-8793-FDB1A1BEFACE 1.heic",
-    "B72415EE-B038-454D-8793-FDB1A1BEFACE.heic"
+    "B72415EE-B038-454D-8793-FDB1A1BEFACE 1.heic"
   ]
 }

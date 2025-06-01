@@ -3,7 +3,7 @@ layout: default
 title: Houses
 template: 0.4
 has_children: true
-nav_order: 51
+nav_order: 50
 has_toc: false
 parent: Directory
 ---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "directory/Houses/House_Corrino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "House_Corrino"
             }
           }
         ]
@@ -168,18 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12ccd2c743b0bf4d",
+  "active": "c9b023bd76de9108",
   "lastOpenFiles": [
+    "index.md",
+    "directory/Houses/House_Corrino.md",
+    "imgs/EyInavZWEAEM_0J.png",
     "imgs/Pasted image 20250531132905.png",
     "imgs/Pasted image 20250528194420.png",
-    "imgs/EyInavZWEAEM_0J.png",
     "directory/Player Characters/Placeholder for PC.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
     "directory/Non-Player Characters/index.md",
     "directory/Non-Player Characters",
     "directory/Houses/placeholder for PC house.md",
     "directory/Houses/index.md",
-    "directory/Houses/House_Corrino.md",
     "directory/Houses",
     "campaigns/The_Spice_Must_Flow/Introduction.md",
     "campaigns/The_Spice_Must_Flow/index.md",
@@ -188,7 +189,6 @@
     "Dune - Adventures in the Imperium System/index.md",
     "Dune - Adventures in the Imperium System",
     "imgs/Pasted image 20250530112500.png",
-    "index.md",
     "_includes/header_directories.md",
     "_includes/header_chapter.md",
     "campaigns/The Spice Must Flow/Chapter 0.md",

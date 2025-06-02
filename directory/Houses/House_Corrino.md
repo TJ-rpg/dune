@@ -1,7 +1,7 @@
 ---
 layout: default
 template: 0.4
-type: House
+type: 
 nav_exclude: false
 parent: Houses
 title: House Corrino

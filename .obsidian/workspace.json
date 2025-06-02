@@ -11,14 +11,12 @@
             "id": "c9b023bd76de9108",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "directory/Houses/House_Corrino.md",
-                "mode": "source",
-                "source": false
+                "file": "imgs/EyInavZWEAEM_0J.png"
               },
-              "icon": "lucide-file",
-              "title": "House_Corrino"
+              "icon": "lucide-image",
+              "title": "EyInavZWEAEM_0J"
             }
           }
         ]

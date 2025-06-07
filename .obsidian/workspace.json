@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Baron_Vladimir_Harkonnen"
             }
           }
         ]
@@ -170,6 +170,10 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "directory/Non-Player Characters/Glossu_Rabban.md",
+    "directory/Non-Player Characters/Placeholder for NPC.md",
+    "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
+    "index.md",
     "directory/Houses/House_Seraut.md",
     "directory/Houses/House_Corrino.md",
     "directory/Houses/House_Ecaz.md",
@@ -177,10 +181,8 @@
     "directory/Houses/House_Harkonnen.md",
     "directory/Player Characters/index.md",
     "directory/Non-Player Characters/index.md",
-    "directory/Non-Player Characters/Placeholder for NPC.md",
     "directory/Player Characters/Placeholder for PC.md",
     "directory/Houses/placeholder for PC house.md",
-    "index.md",
     "misc/index.md",
     "Dune - Adventures in the Imperium System/index.md",
     "directory/Houses/index.md",

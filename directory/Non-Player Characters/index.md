@@ -9,6 +9,14 @@ parent: Directory
 ---
 {% include header_directories.md %}
 
+[Baron Vladimir Harkonnen](Baron_Vladimir_Harkonnen.md)  
+[Glossu Rabban](Glossu_Rabban.md)  
+[Count Hasimir Fenring](Hasimir_Fenring.md)  
+[Piter de Vries](Piter_de_Vries)  
+[Padishah Emperor Shaddam Corrino IV](Shaddam_Corrino.md)
+
+
+
 
 
 

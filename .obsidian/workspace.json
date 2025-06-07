@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
+                "file": "directory/Non-Player Characters/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Baron_Vladimir_Harkonnen"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "a83dcd3a78837a39",
@@ -170,9 +170,15 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
-    "directory/Non-Player Characters/Glossu_Rabban.md",
-    "directory/Non-Player Characters/Placeholder for NPC.md",
+    "directory/Non-Player Characters/Shaddam_Corrino.md",
+    "directory/Non-Player Characters/Piter_de_Vries.md",
     "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
+    "directory/Non-Player Characters/Glossu_Rabban.md",
+    "directory/Non-Player Characters/Hasimir_Fenring.md",
+    "directory/Non-Player Characters/index.md",
+    "directory/Non-Player Characters/Placeholder for NPC.md",
+    "Glossu.md",
+    "directory/Houses/index.md",
     "index.md",
     "directory/Houses/House_Seraut.md",
     "directory/Houses/House_Corrino.md",
@@ -180,12 +186,10 @@
     "directory/Houses/House_Alexin.md",
     "directory/Houses/House_Harkonnen.md",
     "directory/Player Characters/index.md",
-    "directory/Non-Player Characters/index.md",
     "directory/Player Characters/Placeholder for PC.md",
     "directory/Houses/placeholder for PC house.md",
     "misc/index.md",
     "Dune - Adventures in the Imperium System/index.md",
-    "directory/Houses/index.md",
     "imgs/IMG_9056.jpeg",
     "imgs/Pasted image 20250607160258.png",
     "imgs/IMG_9052.jpeg",

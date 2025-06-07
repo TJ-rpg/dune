@@ -4,17 +4,17 @@ template: 0.4
 type: House
 nav_exclude: true
 parent: Houses
-title: placeholder for PC house
+title: House Seraut
 role: 
 status: 
-flavour: Flavour text here...
+flavour: 
 image: 
 details:
 ---
 
 {% include header_directories.md %}
 
-- House Status: 
+- House Status: Major House  
 - Home World: 
 - House Traits:
 - Primary domain: 

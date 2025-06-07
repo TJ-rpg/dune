@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dune - Adventures in the Imperium System/index.md",
+                "file": "directory/Houses/House_Seraut.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "House_Seraut"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dune - Adventures in the Imperium System/index.md",
+                "file": "directory/Houses/House_Seraut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for House_Seraut"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dune - Adventures in the Imperium System/index.md",
+                "file": "directory/Houses/House_Seraut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from House_Seraut"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dune - Adventures in the Imperium System/index.md",
+                "file": "directory/Houses/House_Seraut.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of House_Seraut"
             }
           }
         ]
@@ -170,6 +170,12 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
-    "directory/Houses/House_Corrino.md"
+    "directory/Houses/House_Corrino.md",
+    "directory/Houses/House_Harkonnen.md",
+    "directory/Houses/House_Seraut.md",
+    "directory/Houses/placeholder for PC house.md",
+    "imgs/Pasted image 20250607152106.png",
+    "imgs/Pasted image 20250607152001.png",
+    "Dune - Adventures in the Imperium System/index.md"
   ]
 }

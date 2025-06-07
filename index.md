@@ -8,8 +8,8 @@ footer_content:
 # ***Dune: Adventures in the Imperium***
 {: .text-alpha }
 
-"God created Arrakis to train the faithful."
--from "The Wisdom of Muad'Dib" by the Princess Irulan
+"God created Arrakis to train the faithful."  
+–from "The Wisdom of Muad'Dib" by the Princess Irulan
 
 ![](imgs/Pasted%20image%2020250528194420.png)
   

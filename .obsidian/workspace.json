@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Houses/House_Seraut.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House_Seraut"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directory/Houses/House_Seraut.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for House_Seraut"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directory/Houses/House_Seraut.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from House_Seraut"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "directory/Houses/House_Seraut.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of House_Seraut"
+              "title": "Outline of index"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "directory/Houses/House_Seraut.md",
     "directory/Houses/House_Corrino.md",
     "directory/Houses/House_Ecaz.md",
     "directory/Houses/House_Alexin.md",
@@ -184,7 +185,6 @@
     "Dune - Adventures in the Imperium System/index.md",
     "directory/Houses/index.md",
     "imgs/IMG_9056.jpeg",
-    "directory/Houses/House_Seraut.md",
     "imgs/Pasted image 20250607160258.png",
     "imgs/IMG_9052.jpeg",
     "inklings.md",

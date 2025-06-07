@@ -19,8 +19,8 @@ details:
 - Home World: Kaitain  
 - House Traits: Imperial, Wealthy, Control through any means necessary  
 - Primary domain: Imperial Rule  
-- Secondary domains: Military Training  
-- Key Figures: Padishah Emperor Shaddam IV; Count Hasimir Fenring; Reverend Mother Gaius Helen Mohiam  
+- Secondary domain: Military Training  
+- Key Figures: Padishah Emperor Shaddam IV (Ruler); Count Hasimir Fenring; Reverend Mother Gaius Helen Mohiam (Imperial Truthsayer)  
 - Assumed Relationship with your House: Ally  
 - Notes: also holds Salusa Secundus (planet training camp for the Sardaukar)  
 

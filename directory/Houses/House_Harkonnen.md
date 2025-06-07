@@ -17,7 +17,7 @@ details:
 
 - House Status: Great House  
 - Home World: Giedi Prime  
-- House Traits: Brutality, Treachery & Ruling with an Iron Fist  
+- House Traits: Brutality, Treachery, Ruling with an Iron Fist  
 - Primary domain: Spice Mining (Current Governors of Arrakis)  
 - Secondary domains: Industry (refined alloys; mass produced goods); Whale fur  
 - Key Figures: Baron Vladimir Harkonnen; Glosou Rabban Harkonnen, Piter de Vries  

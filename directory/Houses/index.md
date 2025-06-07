@@ -8,5 +8,8 @@ has_toc: false
 parent: Directory
 ---
 {% include header_directories.md %}
-[placeholder for PC house](placeholder%20for%20PC%20house.md)  
+[House Alexin](House_Alexin.md)  
 [House Corrino](House_Corrino.md)  
+[House Ecaz](House_Ecaz.md)  
+[House Harkonnen](House_Harkonnen.md)  
+[House Seraut](House_Seraut.md)  

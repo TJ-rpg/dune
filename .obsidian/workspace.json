@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Houses/placeholder for PC house.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "placeholder for PC house"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directory/Houses/placeholder for PC house.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for placeholder for PC house"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directory/Houses/placeholder for PC house.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from placeholder for PC house"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "directory/Houses/placeholder for PC house.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of placeholder for PC house"
+              "title": "Outline of index"
             }
           }
         ]
@@ -170,12 +170,22 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
-    "directory/Houses/House_Seraut.md",
-    "directory/Houses/House_Harkonnen.md",
+    "misc/index.md",
+    "Dune - Adventures in the Imperium System/index.md",
+    "index.md",
+    "directory/Houses/index.md",
+    "directory/Houses/House_Alexin.md",
     "directory/Houses/House_Corrino.md",
+    "directory/Houses/House_Ecaz.md",
+    "directory/Houses/House_Harkonnen.md",
+    "imgs/IMG_9056.jpeg",
+    "directory/Houses/House_Seraut.md",
+    "imgs/Pasted image 20250607160258.png",
     "directory/Houses/placeholder for PC house.md",
+    "imgs/IMG_9052.jpeg",
+    "inklings.md",
+    "misc/example.md",
     "imgs/Pasted image 20250607152106.png",
-    "imgs/Pasted image 20250607152001.png",
-    "Dune - Adventures in the Imperium System/index.md"
+    "imgs/Pasted image 20250607152001.png"
   ]
 }

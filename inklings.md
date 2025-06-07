@@ -1,7 +1,6 @@
 ---
-
 kanban-plugin: board
-
+nav_exclude: true
 ---
 
 

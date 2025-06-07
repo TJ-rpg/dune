@@ -13,7 +13,7 @@ details:
 ---
 
 {% include header_directories.md %}
-![](imgs/EyInavZWEAEM_0J.png)
+![](../../imgs/EyInavZWEAEM_0J.png)
 - House Status: Great House  
 - Home World: Kaitan  
 - House Traits: Imperial, Wealthy, Control through any means necessary  

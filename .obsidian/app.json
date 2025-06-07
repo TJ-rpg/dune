@@ -5,5 +5,6 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": false,
   "showLineNumber": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "newLinkFormat": "relative"
 }

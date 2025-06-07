@@ -2,7 +2,7 @@
 layout: default
 template: 0.4
 type: people
-nav_exclude: false
+nav_exclude: true
 parent: Player Characters
 title: Name
 role: 

@@ -1,7 +1,7 @@
 ---
 layout: default
 template: 0.4
-type: 
+type: House
 nav_exclude: false
 parent: Houses
 title: House Corrino
@@ -13,6 +13,7 @@ details:
 ---
 
 {% include header_directories.md %}
+
 ![](../../imgs/EyInavZWEAEM_0J.png)
 - House Status: Great House  
 - Home World: Kaitan  

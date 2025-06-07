@@ -9,4 +9,3 @@ parent: Directory
 
 ---
 {% include header_directories.md %}
-[Placeholder for PC](Placeholder%20for%20PC.md)

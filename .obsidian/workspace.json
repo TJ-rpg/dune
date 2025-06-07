@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Houses/House_Harkonnen.md",
+                "file": "directory/Houses/House_Seraut.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House_Harkonnen"
+              "title": "House_Seraut"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directory/Houses/House_Harkonnen.md",
+                "file": "directory/Houses/House_Seraut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for House_Harkonnen"
+              "title": "Backlinks for House_Seraut"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "directory/Houses/House_Harkonnen.md",
+                "file": "directory/Houses/House_Seraut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from House_Harkonnen"
+              "title": "Outgoing links from House_Seraut"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "directory/Houses/House_Harkonnen.md",
+                "file": "directory/Houses/House_Seraut.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of House_Harkonnen"
+              "title": "Outline of House_Seraut"
             }
           }
         ]
@@ -170,6 +170,10 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "directory/Houses/House_Corrino.md",
+    "directory/Houses/House_Ecaz.md",
+    "directory/Houses/House_Alexin.md",
+    "directory/Houses/House_Harkonnen.md",
     "directory/Player Characters/index.md",
     "directory/Non-Player Characters/index.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
@@ -179,10 +183,6 @@
     "misc/index.md",
     "Dune - Adventures in the Imperium System/index.md",
     "directory/Houses/index.md",
-    "directory/Houses/House_Alexin.md",
-    "directory/Houses/House_Corrino.md",
-    "directory/Houses/House_Ecaz.md",
-    "directory/Houses/House_Harkonnen.md",
     "imgs/IMG_9056.jpeg",
     "directory/Houses/House_Seraut.md",
     "imgs/Pasted image 20250607160258.png",

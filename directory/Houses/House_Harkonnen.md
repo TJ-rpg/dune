@@ -22,7 +22,8 @@ details:
 - Secondary domains: Industry (refined alloys; mass produced goods); Whale fur  
 - Key Figures: Baron Vladimir Harkonnen; Glosou Rabban Harkonnen, Piter de Vries  
 - Assumed Relationship with your House: Enemy  
-Notes: 
+Notes:  
+
 The name Harkonnen is synonymous with brutality, cruelty, and ambition. Among the great Houses of the Landsraad none are as feared and few are as envied as House Harkonnen.  
 
 The Harkonnens labored as a House Minor for many centuries, near-outcasts as the result of an ancient

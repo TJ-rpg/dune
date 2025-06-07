@@ -2,7 +2,7 @@
 layout: default
 template: 0.4
 type: House
-nav_exclude: false
+nav_exclude: true
 parent: Houses
 title: placeholder for PC house
 role: 

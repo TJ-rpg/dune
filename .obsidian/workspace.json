@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Non-Player Characters/index.md",
+                "file": "directory/Non-Player Characters/Shaddam_Corrino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Shaddam_Corrino"
             }
           }
         ]
@@ -170,21 +170,24 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
-    "directory/Non-Player Characters/Shaddam_Corrino.md",
+    "directory/Houses/House_Seraut.md",
+    "_includes/header_directories.md",
+    "_includes/header_chapter.md",
+    "_includes/connected_to.md",
+    "directory/Houses/House_Harkonnen.md",
+    "directory/Houses/House_Alexin.md",
+    "directory/Houses/House_Corrino.md",
+    "directory/Houses/House_Ecaz.md",
     "directory/Non-Player Characters/Piter_de_Vries.md",
     "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
     "directory/Non-Player Characters/Glossu_Rabban.md",
     "directory/Non-Player Characters/Hasimir_Fenring.md",
     "directory/Non-Player Characters/index.md",
+    "directory/Non-Player Characters/Shaddam_Corrino.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
     "Glossu.md",
     "directory/Houses/index.md",
     "index.md",
-    "directory/Houses/House_Seraut.md",
-    "directory/Houses/House_Corrino.md",
-    "directory/Houses/House_Ecaz.md",
-    "directory/Houses/House_Alexin.md",
-    "directory/Houses/House_Harkonnen.md",
     "directory/Player Characters/index.md",
     "directory/Player Characters/Placeholder for PC.md",
     "directory/Houses/placeholder for PC house.md",

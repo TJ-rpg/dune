@@ -12,4 +12,4 @@ nav_order: 99
 ![](../imgs/Pasted%20image%2020250531132905.png)  
 ## How to Play Videos
 - [Basic Rules](https://www.youtube.com/watch?v=l52lA6PDmI4)  
-- [Real Play Example](https://www.google.com/search?q=Inherit+the+sand+episode+6&oq=Inherit+the+sand+episode+6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDk0NTRqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:cac558d1,vid:zibDk0h586I,st:0)  
+- [Real Play Example](https://youtu.be/6_6z_SOHxFU?t=413)  

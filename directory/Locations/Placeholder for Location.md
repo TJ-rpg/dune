@@ -1,9 +1,9 @@
 ---
 layout: default
 template: 0.4
-type: people
+type: location
 nav_exclude: true
-parent: Non-Player Characters
+parent: Locations
 title: Name
 role: 
 status: 
@@ -11,7 +11,6 @@ flavour:
 image: 
 details:
 ---
-
 {% include header_directories.md %}
 
-- **Notes**:
+**Notes:**

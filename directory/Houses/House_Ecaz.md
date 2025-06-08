@@ -16,13 +16,13 @@ details:
 
 ![](../../imgs/IMG_9056.jpeg)
 
-- House Status: Major House  
-- Home World: Ecaz  
-- House Traits: Artistic, Political Strategists, Determined
-- Primary domain: mastery in sculpting and crafting exotic woods  
-- Secondary domains:  
-- Key Figures: Lady Caranda Ecaz (Ruler); Archduke Armand (Ex-Ruler); Captain Phillipa Del Rio (House Envoy)  
-- Assumed Relationship with your House: Ally  
+**House Status:** Major House  
+**Home World:** Ecaz  
+**House Traits:** Artistic, Political Strategists, Determined
+**Primary domain:** mastery in sculpting and crafting exotic woods  
+**Secondary domains:** 
+**Key Figures:** Lady Caranda Ecaz (Ruler); Archduke Armand (Ex-Ruler); Captain Phillipa Del Rio (House Envoy)  
+**Assumed Relationship with your House:** Ally  
 
 Notes:  
 A Great House, Ecaz mass produces unique substances and narcotics, including Sapho juice, elacca, semuta, and verite. Ruled by Archduke Armand Ecaz, the Ecaz won their War of Assassins against House Moritani 25 years ago. But Ecaz hasn’t recovered economically from the conflict, and the aging Archduke is without an heir. They are no friend to the Harkonnens, but neither are they steadfast allies of the Emperor.  

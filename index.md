@@ -27,19 +27,19 @@ footer_content:
 ### *Feel* the world, *listen* to the ***Dune*** playlist.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/06CXEE6S0MF2xfnf7mX7KI?si=vb46pxrDRQKf_y0UeK9RAg&pi=5D0JiSPLRhSeU" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+  
   
   
    
-
-## Source Background Material (Films & Books)  
+  
+## Source Background Material (Films, Books & Podcasts)  
 
 [Dune Book Series](https://archive.org/details/frank-herberts-dune-saga-collection-books-1-6-by-frank-herbert-z-lib.org/mode/1up)  
 [Dune Encyclopaedia](https://archive.org/details/dune-encyclopedia/page/n1/mode/1up)  
 [Dune Audiobook](https://open.spotify.com/show/7iHfbu1YPACw6oZPAFJtqe?si=-5MmdhMjTzCMoqSssMk6lQ)  
 [Dune: Part One](https://open.spotify.com/show/7iHfbu1YPACw6oZPAFJtqe?si=-5MmdhMjTzCMoqSssMk6lQ) (2021 film)  
 [Dune: Part Two](https://www.imdb.com/title/tt15239678/?ref_=ext_shr_lnk) (2024 film)  
-
+[Gom Jabbar Podcast](https://open.spotify.com/show/1k7h9RHpSgFcREjuEbqNot)  
   
   
    

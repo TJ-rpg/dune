@@ -7,7 +7,7 @@ parent: Player Characters
 title: Name
 role: 
 status: 
-flavour: Flavour text here...
+flavour: 
 image: 
 details:
 ---

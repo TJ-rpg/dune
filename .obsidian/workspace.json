@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Non-Player Characters/Shaddam_Corrino.md",
+                "file": "directory/Locations/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shaddam_Corrino"
+              "title": "index"
             }
           }
         ]
@@ -170,35 +170,41 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "directory/Locations/Wallach_IX.md",
+    "directory/Locations/index.md",
+    "directory/Locations/Arrakeen.md",
+    "directory/Locations/Cielago_Depression.md",
+    "directory/Locations/Giedi_Prime.md",
+    "directory/Locations/Kaitain.md",
+    "directory/Locations/Placeholder for Location.md",
+    "directory/Locations/Carthag.md",
+    "directory/Houses/Placeholder_for_PC_house.md",
+    "directory/Houses/House_Vertas.md",
     "directory/Houses/House_Seraut.md",
-    "_includes/header_directories.md",
-    "_includes/header_chapter.md",
-    "_includes/connected_to.md",
     "directory/Houses/House_Harkonnen.md",
-    "directory/Houses/House_Alexin.md",
-    "directory/Houses/House_Corrino.md",
     "directory/Houses/House_Ecaz.md",
-    "directory/Non-Player Characters/Piter_de_Vries.md",
-    "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
-    "directory/Non-Player Characters/Glossu_Rabban.md",
-    "directory/Non-Player Characters/Hasimir_Fenring.md",
+    "directory/Houses/House_Corrino.md",
+    "directory/Houses/House_Alexin.md",
+    "directory/index.md",
+    "Houses.md",
+    "Locations.md",
+    "directory/Player Characters/index.md",
     "directory/Non-Player Characters/index.md",
+    "directory/Houses/index.md",
+    "directory/Locations",
+    "directory/Untitled",
+    "index.md",
+    "Dune - Adventures in the Imperium System/index.md",
+    "directory/Non-Player Characters/Piter_de_Vries.md",
     "directory/Non-Player Characters/Shaddam_Corrino.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
-    "Glossu.md",
-    "directory/Houses/index.md",
-    "index.md",
-    "directory/Player Characters/index.md",
-    "directory/Player Characters/Placeholder for PC.md",
-    "directory/Houses/placeholder for PC house.md",
-    "misc/index.md",
-    "Dune - Adventures in the Imperium System/index.md",
-    "imgs/IMG_9056.jpeg",
+    "imgs/EyInavZWEAEM_0J.png",
     "imgs/Pasted image 20250607160258.png",
-    "imgs/IMG_9052.jpeg",
-    "inklings.md",
-    "misc/example.md",
+    "imgs/Pasted image 20250607152001.png",
     "imgs/Pasted image 20250607152106.png",
-    "imgs/Pasted image 20250607152001.png"
+    "imgs/Pasted image 20250531132905.png",
+    "imgs/Pasted image 20250528194420.png",
+    "imgs/IMG_9056.jpeg",
+    "imgs/IMG_9052.jpeg"
   ]
 }

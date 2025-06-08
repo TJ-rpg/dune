@@ -8,6 +8,7 @@ has_toc: false
 ---
 {% include header_directories.md %}
 [Houses](Houses)  
+[Locations](Locations)  
 [Player Characters](Player Characters)  
 [Non-Player Characters](Non-Player Characters)  
 

@@ -53,7 +53,7 @@ this fashion is extremely distasteful. The location of the
 water-sellers’ residences, however, does provide a key
 to the architectural disposition of the city itself.  
 
-##### ARRAKEEN ARCHITECTURE  
+#### ARRAKEEN ARCHITECTURE  
 The outskirts of Arrakeen consist of large water-farms
 and a few collections of still-tents where those Fremen
 who operate within the city, but do not live within a
@@ -89,29 +89,27 @@ truly certain. Those who have been within it describe
 it as a paradise, though, again, they are less than clear
 what kind of paradise it might be.  
 
-THE POPULATION OF ARRAKEEN
+#### THE POPULATION OF ARRAKEEN
 Arrakeen’s population is extremely heterogeneous, with
 people from throughout the universe taking residence
 there. The presence of the spice and Dune’s political
 importance lures offworlders in great numbers, adding
 to the native population, divided between Fremen—
-nomadic, desert-dwelling descendants of ancient set-
-tlers on the planet, and a class of people categorized
+nomadic, desert-dwelling descendants of ancient settlers on the planet, and a class of people categorized
 throughout the Imperium as ‘pyons’, those born on the
 world and essentially falling under the ruling House’s
 authority. To natives of Arrakis, these are the ‘city folk’.
 Most organized labor on Arrakis is performed by the city
 folk, though they are supplemented by Fremen—often
 employed as servants, or less frequently as bodyguards.
-Fremen are considered poor workers by most city-dwell-
-ers, and frequently the Fremen who work alongside the
+Fremen are considered poor workers by most city-dwellers, and frequently the Fremen who work alongside the
 city-folk are those who have lost their role in Fremen
-society, or are there for reasons of their own, particu-
-larly spying on the ruling House. Most offworlders in
+society, or are there for reasons of their own, particularly spying on the ruling House. Most offworlders in
 Arrakeen are there in a political capacity, serving the
 interests of a House or of the Guild. Arrakeen is a city of
 spies, and the closer one draws to the center of the city,
-the more evident this becomes.
+the more evident this becomes.  
+
 Surrounding the governor’s residency are the various
 residences and embassies of the Landsraad. The current
 inhabitant of the governor’s residency is Count Hasimir
@@ -125,7 +123,8 @@ the planet is being run and ensure that the spice flows
 consistently. This has resulted in considerable additional
 political and espionage resources being concentrated
 in Arrakeen, as the Houses see Fenring’s presence as
-being a route to earning the ear of the Emperor himself.
+being a route to earning the ear of the Emperor himself.  
+
 Fenring’s formidable reputation as an assassin and skilled
 duelist—said to be better than even one of the Emperor’s
 Saudaukar—renders this a risky proposition, and the
@@ -133,17 +132,18 @@ intrigue concentrated around the governor’s residency is
 careful, polite even. The assassinations that do take place
 are carefully orchestrated and use the most sophisticated
 of methods. There is little use of crude methods such as
-hunter-seekers. Instead, most favor carefully administered
-poisons which induce death while obscuring the cause.
+hunter-seekers. Instead, most favour carefully administered
+poisons which induce death while obscuring the cause.  
+
 The Emperor’s presence is felt strongly in Arrakeen, far
-more strongly than elsewhere on the planet, and Cor-
-rino imagery manifests in surprising abundance. Some
+more strongly than elsewhere on the planet, and Corrino imagery manifests in surprising abundance. Some
 Mentats have speculated that this is a deliberate slight
 to the Harkonnens, and that the Emperor may only be
 a few years from removing their fief, while others insist
 that the relationship between the Harkonnens and the
 Padishah Emperor are actually closer and stronger than
-are commonly supposed.
+are commonly supposed.  
+
 Arrakeen is a city that stands in defiance to the hellish
 conditions surrounding it. It is built to endure, certainly,
 but also to prove the power of the Corrino Empire over
@@ -152,5 +152,4 @@ might seek to claim the fief. Many have some influence
 over its disposition, from CHOAM to the Spacing Guild
 to the Landsraad and even the Fremen, but ultimately,
 from a legal standpoint, spice melange is the preserve
-of the Padishah Emperor, no matter who may temporar-
-ily hold sway over its control.
+of the Padishah Emperor, no matter who may temporarily hold sway over its control.

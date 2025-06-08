@@ -13,7 +13,9 @@ details:
 ---
 
 {% include header_directories.md %}
-
+  
+![](../../imgs/Fenring.jpg)  
+  
 Supremely deadly, the courtier-assassin Count Hasimir
 Fenring was the closest confidant of Emperor Shaddam
 IV. The Count was a small, unassuming man, and easily

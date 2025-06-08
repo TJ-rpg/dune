@@ -13,8 +13,10 @@ details:
 ---
 
 {% include header_directories.md %}
-
-Shaddam Corrino is the eighty-first Padishah Emperor of House Corrino. Born to Elrood IX and Lady Fasrille Corrino. He enjoyed and endured his place in Elrood’s court, a place which provided possible Corrino heirs with both the greatest luxuries available in the Imperium together with the most rigorous training and testing imaginable.  
+  
+![](../../imgs/Shaddam.jpg)  
+  
+Shaddam Corrino is the eighty-first Padishah Emperor of House Corrino. Born to Elrood IX and Lady Fasrille Corrino, he enjoyed and endured his place in Elrood’s court, a place which provided possible Corrino heirs with both the greatest luxuries available in the Imperium together with the most rigorous training and testing imaginable.  
 
 From his earliest childhood, Shaddam was befriended by Hasimir Fenring, a distaff cousin whose shrewd and agile mind almost certainly kept the na-Emperor alive during the years of intrigue and violence which preceded his reign. Fenring possessed the ability to manipulate, without antagonizing those in power; by helping his companion to cultivate similar skills, and by giving him the benefit of his own advice, the na-Count performed a function for which Shaddam was permanently grateful.  
 
@@ -35,6 +37,6 @@ Particularly chafing, however, was a far more personal restriction, this one res
 
 The terms of the marriage gave Shaddam additional reason to resent its having been arranged. Only those children born by Anuril could be considered to succeed the emperor; none of those mothered by the Imperial concubines could be placed in the succession. To one accustomed to the usual wide range of choice given in selecting an heir to House Corrino, such a restriction seemed intolerable.  
 
-That the emperor chose to lose himself in the intricacies of court functions and in the pleasures of his harem may be seen as directly inspired by his matrimonial situation. The number of Bursegs, Sardaukar officers of command rank, was doubled in the first sixteen years of Shaddam’s reign, while the population of the royal harem underwent a similar explosion. Earlier rulers had insisted on detailed reports concerning every action of the Imperial troops, as well as those of the soldiers of each of the Great Houses; Shaddam IV, on the other hand, preferred to busy himself with Landsraad intrigues, leaving much of the actual running of his empire to his advisors and to the higher-ranking Sardaukar officers. That the Imperium ran as smoothly as it did in the years preceding the Arrakis Revolt is due almost entirely to the efforts of these two groups.  
+That the emperor chose to lose himself in the intricacies of court functions and in the pleasures of his harem may be seen as directly inspired by his matrimonial situation. The number of Bursegs, Sardaukar officers of command rank, was doubled in the first sixteen years of Shaddam’s reign, while the population of the royal harem underwent a similar explosion. Earlier rulers had insisted on detailed reports concerning every action of the Imperial troops, as well as those of the soldiers of each of the Great Houses; Shaddam IV, on the other hand, preferred to busy himself with Landsraad intrigues, leaving much of the actual 8xrunning of his empire to his advisors and to the higher-ranking Sardaukar officers. That the Imperium ran as smoothly as it did in the years preceding the Arrakis Revolt is due almost entirely to the efforts of these two groups.  
 
 Shaddam’s melancholia and withdrawal became even more pronounced over the two decades of his marriage. Anuril bore five daughters — Irulan, Chalice, Wensicia, Josifa and Rugi; by permitting him only female children, the Bene Gesserit had wrested control of his House from him. The man who married the Princess chosen to receive her father’s throne would be the next Corrino emperor.  

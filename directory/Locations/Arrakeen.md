@@ -53,7 +53,7 @@ this fashion is extremely distasteful. The location of the
 water-sellers’ residences, however, does provide a key
 to the architectural disposition of the city itself.  
 
-#### ARRAKEEN ARCHITECTURE  
+### ARRAKEEN ARCHITECTURE  
 The outskirts of Arrakeen consist of large water-farms
 and a few collections of still-tents where those Fremen
 who operate within the city, but do not live within a
@@ -89,7 +89,7 @@ truly certain. Those who have been within it describe
 it as a paradise, though, again, they are less than clear
 what kind of paradise it might be.  
 
-#### THE POPULATION OF ARRAKEEN
+### THE POPULATION OF ARRAKEEN
 Arrakeen’s population is extremely heterogeneous, with
 people from throughout the universe taking residence
 there. The presence of the spice and Dune’s political

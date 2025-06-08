@@ -14,6 +14,8 @@ details:
 
 {% include header_directories.md %}
   
+![](../../imgs/Baron%20Harkonnen.png)  
+
 Siridar Baron Vladimir Harkonnen was one of the most
 feared, hated, and admired men in all the Imperium.
 From his home on Giedi Prime, the Baron ruled with an

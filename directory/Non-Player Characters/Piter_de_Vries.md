@@ -13,7 +13,9 @@ details:
 ---
 
 {% include header_directories.md %}
-
+  
+![](../../imgs/Piter%20de%20Vries.png)  
+  
 Piter de Vries was a vicious, sadistic,
 and brilliant Mentat, and perhaps
 the closest approximation of a friend

@@ -13,7 +13,9 @@ details:
 ---
 
 {% include header_directories.md %}
-
+  
+![](../../imgs/Rabban.png)   
+  
 Glossu was an infamous brutal tyrant and one of the most hated men of his time. Having killed his father on their homeworld of Lankiveil Rabban was taken under the wing of Baron Harkonnen. The Baron tried to train him in the art of statecraft and subtle deception. However, Rabban never really understood the complexities of politics and often ruined a plan by taking direct action in an attempt to impress the Baron.
 
 As Governor of Arrakis, ‘The Beast’ brutalised the

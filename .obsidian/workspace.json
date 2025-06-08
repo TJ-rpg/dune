@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Locations/Arrakeen.md",
+                "file": "directory/Non-Player Characters/Shaddam_Corrino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arrakeen"
+              "title": "Shaddam_Corrino"
             }
           }
         ]
@@ -170,17 +170,28 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
-    "directory/Locations/Giedi_Prime.md",
-    "directory/Locations/Arrakeen.md",
-    "directory/Locations/Carthag.md",
+    "directory/Non-Player Characters/Placeholder for NPC.md",
     "directory/Non-Player Characters/Piter_de_Vries.md",
+    "directory/Non-Player Characters/index.md",
+    "directory/Non-Player Characters/Hasimir_Fenring.md",
+    "directory/Non-Player Characters/Glossu_Rabban.md",
+    "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
+    "imgs/Rabban.png",
+    "directory/Houses/House_Vertas.md",
+    "directory/Non-Player Characters/Shaddam_Corrino.md",
+    "imgs/Shaddam.jpg",
+    "imgs/Piter de Vries.png",
+    "imgs/Fenring.jpg",
+    "imgs/Baron Harkonnen.png",
+    "directory/Locations/Carthag.md",
+    "directory/Locations/Arrakeen.md",
+    "directory/Locations/Giedi_Prime.md",
     "directory/Locations/index.md",
     "directory/Locations/Wallach_IX.md",
     "directory/Locations/Cielago_Depression.md",
     "directory/Locations/Kaitain.md",
     "directory/Locations/Placeholder for Location.md",
     "directory/Houses/Placeholder_for_PC_house.md",
-    "directory/Houses/House_Vertas.md",
     "directory/Houses/House_Seraut.md",
     "directory/Houses/House_Harkonnen.md",
     "directory/Houses/House_Ecaz.md",
@@ -190,21 +201,12 @@
     "Houses.md",
     "Locations.md",
     "directory/Player Characters/index.md",
-    "directory/Non-Player Characters/index.md",
-    "directory/Houses/index.md",
     "directory/Locations",
     "directory/Untitled",
-    "index.md",
-    "Dune - Adventures in the Imperium System/index.md",
-    "directory/Non-Player Characters/Shaddam_Corrino.md",
-    "directory/Non-Player Characters/Placeholder for NPC.md",
     "imgs/EyInavZWEAEM_0J.png",
     "imgs/Pasted image 20250607160258.png",
     "imgs/Pasted image 20250607152001.png",
     "imgs/Pasted image 20250607152106.png",
-    "imgs/Pasted image 20250531132905.png",
-    "imgs/Pasted image 20250528194420.png",
-    "imgs/IMG_9056.jpeg",
-    "imgs/IMG_9052.jpeg"
+    "imgs/Pasted image 20250531132905.png"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Locations/index.md",
+                "file": "directory/Locations/Giedi_Prime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Giedi_Prime"
             }
           }
         ]
@@ -170,14 +170,15 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
-    "directory/Locations/Wallach_IX.md",
-    "directory/Locations/index.md",
+    "directory/Non-Player Characters/Piter_de_Vries.md",
     "directory/Locations/Arrakeen.md",
-    "directory/Locations/Cielago_Depression.md",
     "directory/Locations/Giedi_Prime.md",
+    "directory/Locations/Carthag.md",
+    "directory/Locations/index.md",
+    "directory/Locations/Wallach_IX.md",
+    "directory/Locations/Cielago_Depression.md",
     "directory/Locations/Kaitain.md",
     "directory/Locations/Placeholder for Location.md",
-    "directory/Locations/Carthag.md",
     "directory/Houses/Placeholder_for_PC_house.md",
     "directory/Houses/House_Vertas.md",
     "directory/Houses/House_Seraut.md",
@@ -195,7 +196,6 @@
     "directory/Untitled",
     "index.md",
     "Dune - Adventures in the Imperium System/index.md",
-    "directory/Non-Player Characters/Piter_de_Vries.md",
     "directory/Non-Player Characters/Shaddam_Corrino.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
     "imgs/EyInavZWEAEM_0J.png",

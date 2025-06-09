@@ -49,8 +49,7 @@ its current rulers, the Bene Gesserit. The Sisterhood
 is critical to the continued existence of Wallach IX, as
 the planet would collapse economically without them.
 The few exports are tied to their training and schools,
-reinforcing their importance, and increasing their num-
-bers with each passing day. Every Sister has stepped
+reinforcing their importance, and increasing their numbers with each passing day. Every Sister has stepped
 on Wallach IX at least once, always for training on the
 Chapterhouse, and later potentially for a meeting with
 the Mother Superior or to receive special assignments.  
@@ -63,15 +62,13 @@ reside in space around it without prior approval.
 Wallach IX’s culture is one of obedience and community.
 The Chapterhouse is ruled by the Mother Superior who
 reinforces the Bene Gesserit beliefs and the mission of the
-creation of the Kwisatz Haderach. Over 90% of the popula-
-tion are Bene Gesserit either in training or graduated.
+creation of the Kwisatz Haderach. Over 90% of the population are Bene Gesserit either in training or graduated.
 Anyone else is either a worker, a guest, or a prisoner.  
 
 ### ENVIRONMENT
 Wallach IX is a forest ecosystem with cities carved out
 over the planet. Each city is a near-identical copy of
-each other down to parks, street names, and number-
-ing. Visiting one city feels like being in any other city,
+each other down to parks, street names, and numbering. Visiting one city feels like being in any other city,
 granting a level of familiarity and a disconcerting feeling
 of having been someplace before but uncertain.  
 

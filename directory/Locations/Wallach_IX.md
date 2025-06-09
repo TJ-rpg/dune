@@ -12,7 +12,9 @@ image:
 details:
 ---
 {% include header_directories.md %}
-
+  
+![](../../imgs/Wallach%20IX.png)  
+  
 **Star System:** Laoujin  
 **Moons:** Three  
 **Habitable:** Class IV  

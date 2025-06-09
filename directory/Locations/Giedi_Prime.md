@@ -12,7 +12,9 @@ image:
 details:
 ---
 {% include header_directories.md %}
-
+  
+![](../../imgs/Giedi%20Prime.png)  
+  
 **Star System:** Ophiuchi  
 **Moons:** None  
 **Habitable:** Class IV  

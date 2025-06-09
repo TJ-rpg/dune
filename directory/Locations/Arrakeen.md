@@ -12,7 +12,9 @@ image:
 details:
 ---
 {% include header_directories.md %}
-
+  
+![](../../imgs/Arrakeen.png)  
+  
 Arrakeen was once the capital of Arrakis since its
 foundation until the coming of the Harkonnens. While
 few doubt that the purpose-built city of Carthag is

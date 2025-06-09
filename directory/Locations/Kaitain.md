@@ -12,7 +12,9 @@ image:
 details:
 ---
 {% include header_directories.md %}
-
+  
+![](../../imgs/Kaitain.png)  
+![](../../imgs/Kaitan.webp)  
 **Star System:** Alpha Waiping  
 **Moons:** Four  
 **Habitable:** Class IV  

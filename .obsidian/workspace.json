@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Locations/Wallach_IX.md",
+                "file": "directory/Player Characters/Titus_Leanne_Naser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wallach_IX"
+              "title": "Titus_Leanne_Naser"
             }
           }
         ]
@@ -170,10 +170,20 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "directory/Locations/Wallach_IX.md",
+    "directory/Player Characters/Titus_Leanne_Naser.md",
+    "imgs/Wallach IX.png",
     "directory/Locations/Kaitain.md",
-    "directory/Locations/Placeholder for Location.md",
-    "directory/Locations/Giedi_Prime.md",
+    "imgs/Kaitan.webp",
+    "directory/Locations/Carthag.md",
     "directory/Locations/Cielago_Depression.md",
+    "imgs/Carthag.webp",
+    "directory/Locations/Giedi_Prime.md",
+    "imgs/Giedi Prime.png",
+    "directory/Locations/Arrakeen.md",
+    "imgs/Arrakeen.png",
+    "directory/Locations/Placeholder for Location.md",
+    "imgs/Kaitain.png",
     "imgs/Shaddam.jpg",
     "directory/Non-Player Characters/Shaddam_Corrino.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
@@ -186,11 +196,7 @@
     "directory/Houses/House_Vertas.md",
     "imgs/Piter de Vries.png",
     "imgs/Fenring.jpg",
-    "imgs/Baron Harkonnen.png",
-    "directory/Locations/Carthag.md",
-    "directory/Locations/Arrakeen.md",
     "directory/Locations/index.md",
-    "directory/Locations/Wallach_IX.md",
     "directory/Houses/Placeholder_for_PC_house.md",
     "directory/Houses/House_Seraut.md",
     "directory/Houses/House_Harkonnen.md",
@@ -201,11 +207,6 @@
     "Houses.md",
     "Locations.md",
     "directory/Locations",
-    "directory/Untitled",
-    "imgs/EyInavZWEAEM_0J.png",
-    "imgs/Pasted image 20250607160258.png",
-    "imgs/Pasted image 20250607152001.png",
-    "imgs/Pasted image 20250607152106.png",
-    "imgs/Pasted image 20250531132905.png"
+    "directory/Untitled"
   ]
 }

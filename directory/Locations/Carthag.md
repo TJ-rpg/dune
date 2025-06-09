@@ -12,7 +12,9 @@ image:
 details:
 ---
 {% include header_directories.md %}
-
+  
+![](../../imgs/Carthag.webp)  
+  
 Carthag is approximately 200 kilometers from Arrakeen
 and requires a difficult journey across the particularly
 inhospitable wastes known as the Broken Lands. It was

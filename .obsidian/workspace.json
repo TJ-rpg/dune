@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Player Characters/Titus_Leanne_Naser.md",
+                "file": "directory/Player Characters/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Titus_Leanne_Naser"
+              "title": "index"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
-    "directory/Locations/Wallach_IX.md",
     "directory/Player Characters/Titus_Leanne_Naser.md",
+    "directory/Locations/Wallach_IX.md",
     "imgs/Wallach IX.png",
     "directory/Locations/Kaitain.md",
     "imgs/Kaitan.webp",

@@ -21,7 +21,7 @@ details:
 **Personality Traits:** Dignified; Solemn; Bene Gesserit  
 **Ambition:** Find hidden knowledge  
 
-# ***Drives***  
+# ***Drives***   
 # **Duty:** 6 – *"Duty is a sharp blade"*  
 # **Faith:** 6 – *"My faith gives me certainty"*  
 # **Justice:** 4  

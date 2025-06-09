@@ -21,20 +21,20 @@ details:
 **Personality Traits:** Dignified; Solemn; Bene Gesserit  
 **Ambition:** Find hidden knowledge  
 
-# Drive  
-## **Duty:** 6 – *"Duty is a sharp blade"*  
-## **Faith:** 6 – *"My faith gives me certainty"*  
-## **Justice:** 4  
-## **Power:** 5  
-## **Truth:** 8 – *"I seek to uncover secrets"*  
+# ***Drives***  
+# **Duty:** 6 – *"Duty is a sharp blade"*  
+# **Faith:** 6 – *"My faith gives me certainty"*  
+# **Justice:** 4  
+# **Power:** 5  
+# **Truth:** 8 – *"I seek to uncover secrets"*  
 
 
-# Skill  
-## **Battle:** 4  
-## **Communicate:** 7 – Neurolinguistics  
-## **Discipline:** 6 – Command; composure  
-## **Move:** 5  
-## **Understand:** 8 – Faction lore (Bene Gesserit)  
+# ***Skill***  
+# **Battle:** 4  
+# **Communicate:** 7 – Neurolinguistics  
+# **Discipline:** 6 – Command; composure  
+# **Move:** 5  
+# **Understand:** 8 – Faction lore (Bene Gesserit)  
 
 ### **Talents:**
 **HYPERAWARENESS (BENE GESSERIT TALENT)**  

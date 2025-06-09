@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Player Characters/index.md",
+                "file": "directory/Player Characters/Titus_Leanne_Naser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Titus_Leanne_Naser"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "directory/Player Characters/index.md",
     "directory/Player Characters/Titus_Leanne_Naser.md",
     "directory/Locations/Wallach_IX.md",
     "imgs/Wallach IX.png",
@@ -205,7 +206,6 @@
     "directory/Houses/House_Alexin.md",
     "directory/index.md",
     "Houses.md",
-    "Locations.md",
     "directory/Locations",
     "directory/Untitled"
   ]

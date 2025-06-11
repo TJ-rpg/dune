@@ -11,7 +11,6 @@ flavour:
 image: 
 details:
 ---
-
 {% include header_directories.md %}
 ## Background  
 **Name:** Titus Leanne Naser  

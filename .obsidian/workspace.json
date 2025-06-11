@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Player Characters/Titus_Leanne_Naser.md",
+                "file": "campaigns/The_Spice_Must_Flow/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Titus_Leanne_Naser"
+              "title": "Introduction"
             }
           }
         ]
@@ -170,16 +170,17 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "campaigns/The_Spice_Must_Flow/Chapter_0.md",
+    "campaigns/The_Spice_Must_Flow/Introduction.md",
+    "directory/Player Characters/Titus_Leanne_Naser.md",
     "directory/Houses/House_Varmoth.md",
     "directory/Player Characters/index.md",
-    "campaigns/The_Spice_Must_Flow/Chapter_0.md",
     "directory/Houses/House_Harkonnen.md",
     "directory/Houses/House_Vertas.md",
     "directory/Houses/House_Corrino.md",
     "directory/Houses/House_Alexin.md",
     "imgs/Kaitan.webp",
     "imgs/Kaitain.png",
-    "directory/Player Characters/Titus_Leanne_Naser.md",
     "Dune - Adventures in the Imperium System/index.md",
     "directory/Player Characters/Placeholder for PC.md",
     "directory/Locations/Wallach_IX.md",
@@ -205,7 +206,6 @@
     "imgs/Piter de Vries.png",
     "imgs/Fenring.jpg",
     "directory/Locations/index.md",
-    "directory/Houses/House_Seraut.md",
     "directory/Locations",
     "directory/Untitled"
   ]

@@ -4,7 +4,7 @@ template: 0.4
 type: people
 nav_exclude: false
 parent: Player Characters
-title: Titus Leanne Naser (Katie)
+title: Kleya Leanne Naser Varmoth (Katie)
 role: 
 status: 
 flavour: 
@@ -13,44 +13,42 @@ details:
 ---
 {% include header_directories.md %}  
 ## **House:** House Varmoth  
-### **Role:** Reverend Mother  
-### **Faction:** Bene Gesserit  
-### **Personality Traits:** Dignified; Solemn; Bene Gesserit  
-### **Ambition:** Find hidden knowledge  
+## **Role:** Reverend Mother  
+## **Faction:** Bene Gesserit  
+## **Personality Traits:** Dignified; Solemn; Bene Gesserit  
+## **Ambition:** Find hidden knowledge  
 
 # **Drives**   
 # ***Duty:*** 6  
-## ***"Duty is a sharp blade"***  
-# ***Faith:*** 6  
-## *"My faith gives me certainty"*  
+## **"Duty is a bolt of lightning"**  
+# ***Faith:*** 7  
+## **"My faith gives me certainty, like the wings of a moth"**  
 # ***Justice:*** 4  
 # ***Power:*** 5   
 # ***Truth:*** 8  
-## *"I seek to uncover secrets"*   
+## **"I seek to uncover secrets"**   
 
 
 # **Skills**
 # ***Battle:*** 4  
-# ***Communicate:*** 7 – Neurolinguistics  
-# ***Discipline:*** 6 – Command; composure  
-# ***Move:*** 5  
-# ***Understand:*** 8 – Faction lore (Bene Gesserit)  
+# ***Communicate:*** 8  
+## **Neurolinguistics**  
+# ***Discipline:*** 6  
+## **Command; Composure**  
+# ***Move:*** 4  
+# ***Understand:*** 6  
+## **Faction Lore (Bene Gesserit); Ecology**  
+
+# **Assets**  
+## **Dangerous Secret**  
+## **Robes of the Reverend Mother**  
+## **Kindjal**  
 
 # **Talents**
-**HYPERAWARENESS (BENE GESSERIT TALENT)**  
-*Your training has honed your awareness to an incredible
-degree, allowing you to notice details too small for others
-to perceive. Armed with these insights, you can uncover
-secrets and truths that others may be oblivious to.*   
 
-Whenever you spend Momentum to Obtain Information about the current situation, your current location,
-or a person you can currently observe, you may ask two
-questions for the first point of Momentum spent. Further, the limits of what others would be able to notice
-do not apply to you for any questions.  
-
-**OTHER MEMORY (BENE GESSERIT TALENT)**  
+## **OTHER MEMORY (BENE GESSERIT TALENT)**  
 *You have undergone the Agony attended by another
-Reverent Mother, and now you can draw upon the memories and wisdom of all your ancestors. In doing so, you
+Reverend Mother, and now you can draw upon the memories and wisdom of all your ancestors. In doing so, you
 have become a Reverend Mother of the Bene Gesserit.*  
 
 You must be a Reverend Mother of the Bene Gesserit
@@ -64,7 +62,7 @@ generations ago—would be beneficial, you score three
 automatic successes. You may also share your genetic
 memory with other Reverend Mothers at will.  
 
-**PRANA-BINDU CONDITIONING (BENE GESSERIT TALENT)**  
+## **PRANA-BINDU CONDITIONING (BENE GESSERIT TALENT)**  
 *You have absolute control over your body. Every muscle
 and every nerve is under your control, and you have even
 mastered your own body chemistry and metabolism.*  
@@ -75,9 +73,8 @@ single d20. You can perfectly control your breathing,
 heart rate, and your internal organs (including the ability
 to choose whether to conceive a child, and to determine the child’s physical and genetic traits).  
 
-**VOICE (BENE GESSERIT TALENT)**  
-*You have been trained to modulate your voice to influ-
-ence the subconscious minds of others. With this skill
+## **VOICE (BENE GESSERIT TALENT)**  
+*You have been trained to modulate your voice to influence the subconscious minds of others. With this skill
 you can subtly manipulate others, alter motivations and
 moods, or even compel action from the unwilling.*  
 

@@ -12,9 +12,7 @@ image:
 details:
 ---
 {% include header_directories.md %}  
-
-### **House:**
-### House Varmoth  
+## **House:** House Varmoth  
 ### **Role:** Reverend Mother  
 ### **Faction:** Bene Gesserit  
 ### **Personality Traits:** Dignified; Solemn; Bene Gesserit  
@@ -22,7 +20,7 @@ details:
 
 # **Drives**   
 # ***Duty:*** 6  
-## *"Duty is a sharp blade"*  
+## ***"Duty is a sharp blade"***  
 # ***Faith:*** 6  
 ## *"My faith gives me certainty"*  
 # ***Justice:*** 4  

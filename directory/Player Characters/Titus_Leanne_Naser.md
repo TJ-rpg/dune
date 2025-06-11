@@ -11,31 +11,30 @@ flavour:
 image: 
 details:
 ---
-{% include header_directories.md %}
-## Background  
-**Name:** Titus Leanne Naser  
-**House:** *?*  
-**Role:** Reverend Mother  
-**Faction:** Bene Gesserit  
-**Personality Traits:** Dignified; Solemn; Bene Gesserit  
-**Ambition:** Find hidden knowledge  
+{% include header_directories.md %}  
 
-# ***Drives***   
-# **Duty:** 6 – *"Duty is a sharp blade"*  
-# **Faith:** 6 – *"My faith gives me certainty"*  
-# **Justice:** 4  
-# **Power:** 5  
-# **Truth:** 8 – *"I seek to uncover secrets"*  
+### **House:** House Varmoth  
+### **Role:** Reverend Mother  
+### **Faction:** Bene Gesserit  
+### **Personality Traits:** Dignified; Solemn; Bene Gesserit  
+### **Ambition:** Find hidden knowledge  
+
+# **Drives**   
+# ***Duty:*** 6 – *"Duty is a sharp blade"*  
+# ***Faith:*** 6 – *"My faith gives me certainty"*  
+# ***Justice:*** 4  
+# ***Power:*** 5  
+# ***Truth:*** 8 – *"I seek to uncover secrets"*  
 
 
-# ***Skill***  
-# **Battle:** 4  
-# **Communicate:** 7 – Neurolinguistics  
-# **Discipline:** 6 – Command; composure  
-# **Move:** 5  
-# **Understand:** 8 – Faction lore (Bene Gesserit)  
+# **Skills**
+# ***Battle:*** 4  
+# ***Communicate:*** 7 – Neurolinguistics  
+# ***Discipline:*** 6 – Command; composure  
+# ***Move:*** 5  
+# ***Understand:*** 8 – Faction lore (Bene Gesserit)  
 
-### **Talents:**
+# **Talents**
 **HYPERAWARENESS (BENE GESSERIT TALENT)**  
 *Your training has honed your awareness to an incredible
 degree, allowing you to notice details too small for others

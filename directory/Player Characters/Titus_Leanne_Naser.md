@@ -13,18 +13,22 @@ details:
 ---
 {% include header_directories.md %}  
 
-### **House:** House Varmoth  
+### **House:**
+### House Varmoth  
 ### **Role:** Reverend Mother  
 ### **Faction:** Bene Gesserit  
 ### **Personality Traits:** Dignified; Solemn; Bene Gesserit  
 ### **Ambition:** Find hidden knowledge  
 
 # **Drives**   
-# ***Duty:*** 6 – *"Duty is a sharp blade"*  
-# ***Faith:*** 6 – *"My faith gives me certainty"*  
+# ***Duty:*** 6  
+## *"Duty is a sharp blade"*  
+# ***Faith:*** 6  
+## *"My faith gives me certainty"*  
 # ***Justice:*** 4  
-# ***Power:*** 5  
-# ***Truth:*** 8 – *"I seek to uncover secrets"*  
+# ***Power:*** 5   
+# ***Truth:*** 8  
+## *"I seek to uncover secrets"*   
 
 
 # **Skills**

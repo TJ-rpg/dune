@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 footer_content:
 ---
-
+![](imgs/Dune%20Title.jpeg)  
 # ***Dune: Adventures in the Imperium***
 {: .text-alpha }
 

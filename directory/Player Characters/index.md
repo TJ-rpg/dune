@@ -11,3 +11,4 @@ parent: Directory
 {% include header_directories.md %}
 
 [Kleya Leanne Naser Varmoth](Kleya_Leanne_Naser_Varmoth.md)  
+[Count Lucar Varmoth](Count_Lucar_Varmoth.md)  

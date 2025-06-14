@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dune - Adventures in the Imperium System/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,15 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36df9783094c7ec0",
+  "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "imgs/Dune Title.jpeg",
+    "directory/Player Characters/Lavro.md",
+    "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
+    "directory/Player Characters/Placeholder for PC.md",
+    "directory/Player Characters/Count_Lucar_Varmoth.md",
+    "directory/Player Characters/index.md",
+    "Dune - Adventures in the Imperium System/index.md",
     "directory/Houses/House_Vertas.md",
     "directory/Houses/House_Ecaz.md",
     "directory/Houses/House_Alexin.md",
-    "Dune - Adventures in the Imperium System/index.md",
-    "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
-    "directory/Player Characters/index.md",
-    "directory/Player Characters/Placeholder for PC.md",
     "campaigns/The_Spice_Must_Flow/Introduction.md",
     "2025-06-01.md",
     "campaigns/The_Spice_Must_Flow/Chapter_0.md",
@@ -200,9 +203,6 @@
     "directory/Non-Player Characters/Shaddam_Corrino.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
     "directory/Non-Player Characters/Piter_de_Vries.md",
-    "directory/Non-Player Characters/index.md",
-    "directory/Non-Player Characters/Hasimir_Fenring.md",
-    "directory/Non-Player Characters/Glossu_Rabban.md",
     "imgs/Rabban.png",
     "imgs/Piter de Vries.png",
     "imgs/Fenring.jpg",

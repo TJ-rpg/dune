@@ -29,7 +29,7 @@ details:
 ## **"I seek to uncover secrets"**   
 
 
-# **Skills**
+# **Skills**  
 # ***Battle:*** 4  
 # ***Communicate:*** 8  
 ## **Neurolinguistics**  
@@ -44,7 +44,7 @@ details:
 ## **Robes of the Reverend Mother**  
 ## **Kindjal**  
 
-# **Talents**
+# **Talents**  
 
 ## **OTHER MEMORY (BENE GESSERIT TALENT)**  
 *You have undergone the Agony attended by another

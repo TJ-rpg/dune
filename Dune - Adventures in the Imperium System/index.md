@@ -11,5 +11,7 @@ nav_order: 99
 - The ***Dune: Adventures in the Imperium*** rule book is available on [this Google Drive link](https://drive.google.com/file/d/1HIJ-eAKioLQRO0FPb2MuwCNvTLo94OQ1/view?usp=drivesdk) with permission.  
 ![](../imgs/Pasted%20image%2020250531132905.png)  
 ## How to Play Videos
-- [Basic Rules](https://www.youtube.com/watch?v=l52lA6PDmI4)  
+- [Basic Rules](https://youtu.be/l52lA6PDmI4?t=166)  
+- [How to Create a Character](https://youtu.be/zXnPS0u573s?t=473)  
+- [Detailed Rules](https://youtu.be/zXnPS0u573s?t=798)  
 - [Real Play Example](https://youtu.be/6_6z_SOHxFU?t=413)  

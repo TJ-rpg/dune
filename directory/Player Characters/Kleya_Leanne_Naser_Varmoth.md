@@ -12,7 +12,7 @@ image:
 details:
 ---
 {% include header_directories.md %}  
-## **House:** House Varmoth  
+## **House:** Varmoth  
 ## **Role:** Reverend Mother  
 ## **Faction:** Bene Gesserit  
 ## **Personality Traits:** Dignified; Solemn; Bene Gesserit  

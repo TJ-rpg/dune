@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "directory/Player Characters/Zibid-i_Paro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Zibid-i_Paro"
             }
           }
         ]
@@ -170,21 +170,26 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
-    "Dune - Adventures in the Imperium System/index.md",
+    "directory/Player Characters/Takshaka_Vahal.md",
+    "directory/Player Characters/Lundrak_Varmint.md",
     "directory/Player Characters/Placeholder for PC.md",
-    "index.md",
-    "imgs/Dune Title.jpeg",
+    "directory/Player Characters/Count_Lucar_Varmoth.md",
     "directory/Player Characters/Lavro.md",
     "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
-    "directory/Player Characters/Count_Lucar_Varmoth.md",
     "directory/Player Characters/index.md",
+    "directory/Player Characters/Zibid-i_Paro.md",
+    "directory/Non-Player Characters/Piter_de_Vries.md",
+    "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
+    "directory/Houses/House_Varmoth.md",
+    "index.md",
+    "Dune - Adventures in the Imperium System/index.md",
+    "imgs/Dune Title.jpeg",
     "directory/Houses/House_Vertas.md",
     "directory/Houses/House_Ecaz.md",
     "directory/Houses/House_Alexin.md",
     "campaigns/The_Spice_Must_Flow/Introduction.md",
     "2025-06-01.md",
     "campaigns/The_Spice_Must_Flow/Chapter_0.md",
-    "directory/Houses/House_Varmoth.md",
     "directory/Houses/House_Harkonnen.md",
     "directory/Houses/House_Corrino.md",
     "imgs/Kaitan.webp",
@@ -197,13 +202,8 @@
     "imgs/Carthag.webp",
     "directory/Locations/Giedi_Prime.md",
     "imgs/Giedi Prime.png",
-    "directory/Locations/Arrakeen.md",
     "imgs/Arrakeen.png",
-    "directory/Locations/Placeholder for Location.md",
     "imgs/Shaddam.jpg",
-    "directory/Non-Player Characters/Shaddam_Corrino.md",
-    "directory/Non-Player Characters/Placeholder for NPC.md",
-    "directory/Non-Player Characters/Piter_de_Vries.md",
     "imgs/Rabban.png",
     "imgs/Piter de Vries.png",
     "directory/Locations",

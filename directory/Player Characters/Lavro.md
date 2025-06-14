@@ -67,7 +67,7 @@ where it contradicts and determine where falsehoods lie.*
 You may spend a point of Momentum to ask the gamemaster if a piece of information you have is true or
 false. You need not be making a skill test as with Obtain
 Information, and the data can be your supposition as
-much as a specific document or rumour.
+much as a specific document or rumour.  
 
 
 

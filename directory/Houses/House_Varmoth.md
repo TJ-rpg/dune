@@ -2,7 +2,7 @@
 layout: default
 template: 0.4
 type: House
-nav_exclude: true
+nav_exclude: false
 parent: Houses
 title: House Varmoth
 role: 

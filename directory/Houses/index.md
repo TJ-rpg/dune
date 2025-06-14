@@ -14,4 +14,5 @@ parent: Directory
 [House Ecaz](House_Ecaz.md)  
 [House Harkonnen](House_Harkonnen.md)  
 [House Seraut](House_Seraut.md)  
+[House Varmoth](House_Varmoth.md)  
 [House Vertas](House_Vertas.md)  

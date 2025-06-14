@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Player Characters/Zibid-i_Paro.md",
+                "file": "directory/Houses/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zibid-i_Paro"
+              "title": "index"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "directory/Player Characters/Zibid-i_Paro.md",
     "directory/Player Characters/Takshaka_Vahal.md",
     "directory/Player Characters/Lundrak_Varmint.md",
     "directory/Player Characters/Placeholder for PC.md",
@@ -177,7 +178,6 @@
     "directory/Player Characters/Lavro.md",
     "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
     "directory/Player Characters/index.md",
-    "directory/Player Characters/Zibid-i_Paro.md",
     "directory/Non-Player Characters/Piter_de_Vries.md",
     "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
     "directory/Houses/House_Varmoth.md",

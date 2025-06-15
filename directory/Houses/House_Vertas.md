@@ -19,6 +19,6 @@ details:
 **House Traits:** technological prowess; immoral; suspicious  
 **Primary domain:** Spice Mining (manufacture of spice separation technology  
 **Secondary domains:** Military (production of ammunition); Artistic (supply actors for theatre)  
-**Key Figures:**  
+**Key Figures:** Tamara Pilru (House Envoy); 
 **Assumed Relationship with your House:** Neutral  
 **Notes:** House Vertas hold a spice mining contract on Arrakis for around 5% of production in the Hagga Basin (due to its southerly location, the area does not produce as much spice as the deep desert but also has less sandworm presence)  

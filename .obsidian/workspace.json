@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Houses/House_Varmoth.md",
+                "file": "Dune - Adventures in the Imperium System/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House_Varmoth"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "directory/Houses/House_Varmoth.md",
+                "file": "Dune - Adventures in the Imperium System/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for House_Varmoth"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -170,8 +170,26 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
-    "directory/Houses/House_Vertas.md",
+    "imgs/DAitI.webp",
+    "imgs/Pasted image 20250531132905.png",
+    "imgs/Pasted image 20250528194420.png",
+    "Dune - Adventures in the Imperium System/index.md",
+    "directory/Locations/Kaitain.md",
+    "directory/Locations/Cielago_Depression.md",
+    "imgs/g832.png",
+    "directory/Player Characters/Count_Lucar_Varmoth.md",
+    "directory/Player Characters/index.md",
+    "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
+    "directory/Player Characters/Lavro.md",
+    "directory/Player Characters/Lundrak_Varmint.md",
+    "directory/Player Characters/Placeholder for PC.md",
+    "directory/Player Characters/Takshaka_Vahal.md",
+    "directory/Player Characters/Zibid-i_Paro.md",
     "directory/Houses/House_Varmoth.md",
+    "imgs/Vandaruk.png",
+    "directory/Locations/Arrakeen.md",
+    "imgs/dfik6mx-a2f82572-8462-4905-977e-c53bedd5ac55.jpeg",
+    "directory/Houses/House_Vertas.md",
     "directory/Houses/House_Seraut.md",
     "directory/Houses/House_Harkonnen.md",
     "directory/Houses/House_Ecaz.md",
@@ -183,29 +201,11 @@
     "campaigns/The_Spice_Must_Flow/Chapter_0.md",
     "index.md",
     "directory/Houses/index.md",
-    "directory/Player Characters/Zibid-i_Paro.md",
-    "directory/Player Characters/Takshaka_Vahal.md",
-    "directory/Player Characters/Lundrak_Varmint.md",
-    "directory/Player Characters/Placeholder for PC.md",
-    "directory/Player Characters/Count_Lucar_Varmoth.md",
-    "directory/Player Characters/Lavro.md",
-    "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
-    "directory/Player Characters/index.md",
     "directory/Non-Player Characters/Piter_de_Vries.md",
-    "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
-    "Dune - Adventures in the Imperium System/index.md",
     "imgs/Dune Title.jpeg",
-    "2025-06-01.md",
     "imgs/Kaitan.webp",
     "imgs/Kaitain.png",
-    "directory/Locations/Wallach_IX.md",
     "imgs/Wallach IX.png",
-    "directory/Locations/Kaitain.md",
-    "imgs/Carthag.webp",
-    "imgs/Giedi Prime.png",
-    "imgs/Arrakeen.png",
-    "imgs/Shaddam.jpg",
-    "imgs/Rabban.png",
     "directory/Locations",
     "directory/Untitled"
   ]

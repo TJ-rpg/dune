@@ -17,14 +17,14 @@ details:
 **House Status:** Major House  
 **Home World:** Nexis  
 **House Traits:** technological prowess; immoral; suspicious  
-**Primary domain:** Spice Mining (manufacture of spice separation technology  
+**Primary domain:** Spice Mining (manufacture of spice separation technology)  
 **Secondary domains:** Military (production of ammunition); Artistic (supply actors for theatre)  
 **Key Figures:** Tamara Pilru (House Envoy) 
 **Assumed Relationship with your House:** Neutral  
 **Notes:**  
 House Vertas rules over Nexis, a world defined by its luminous, engineered landscapes. Nexis is a planet of towering crystalline factories, vast fields of bioluminescent flora, and sprawling energy-harvesting complexes. Here, nature and machine are seamlessly intertwined, symbolising the House’s innovative synthesis of environmental stewardship and industrial might.  
 
-House Vertas is renowned for developing space frigates. These ships serve as critical links in a vast network of economic and diplomatic channels, ensuring that House Vertas maintains a prominent role in trade and strategic alliances.  
+House Vertas is renowned for developing innovative and novel spice mining technology.  
 
 At the helm of House Vertas is Duke Damar Vertas, a visionary leader whose strategic genius is rivaled only by his unwavering commitment to progress. His consort, Lady Zevara Vertas, is celebrated for her political acumen and grace at court. Together, they are raising Rovan Vertas and Kaiya Vertas, who are already making their mark in both technological innovation and statecraft. The family’s intricate web of alliances and rivalries—cemented through carefully arranged marriages and political negotiations—forms the backbone of their enduring influence.  
 

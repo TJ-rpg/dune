@@ -13,7 +13,9 @@ details:
 ---
 
 {% include header_directories.md %}  
-
+  
+![](../../imgs/House%20Varmoth%20Symbol.png)  
+  
 **House Status:** Major House  
 **Home World:** Thundäruk  
 **House Traits:** Religious Power; Deceptive  

@@ -154,4 +154,6 @@ might seek to claim the fief. Many have some influence
 over its disposition, from CHOAM to the Spacing Guild
 to the Landsraad and even the Fremen, but ultimately,
 from a legal standpoint, spice melange is the preserve
-of the Padishah Emperor, no matter who may temporarily hold sway over its control.
+of the Padishah Emperor, no matter who may temporarily hold sway over its control.  
+  
+![](../../imgs/dfik6mx-a2f82572-8462-4905-977e-c53bedd5ac55.jpeg)  

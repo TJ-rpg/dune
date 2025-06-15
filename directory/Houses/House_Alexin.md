@@ -18,7 +18,7 @@ details:
 
 **House Status:** Major House  
 **Home World:** Poritrin  
-**House Traits:** Well-respected, industrious  
+**House Traits:** Well-respected; industrious  
 **Primary domains:** Industrial agriculture & food production  
 **Secondary domain:** Musical instruments  
 **Key Figures:** Prince Kole Alexin (Ruler); Godwin Alexin (Courtier Assassin); Ryssa (Bene Gesserit, Minor Heir); Lord Trevnor (House Noble); Lady Ottavia (Bene Gesserit Acolyte)  

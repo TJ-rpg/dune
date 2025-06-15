@@ -16,14 +16,14 @@ details:
 
 ![](../../imgs/EyInavZWEAEM_0J.png)
 **House Status:** Great House  
-**Home World:** Kaitain  
+**Home World:** Kaitain; also holds Salusa Secundus (planet training camp for the Sardaukar)  
 **House Traits:** Imperial, Wealthy, Control through any means necessary  
 **Primary domain:** Imperial Rule  
 **Secondary domain:** Military Training  
 **Key Figures:** Padishah Emperor Shaddam IV (Ruler); Count Hasimir Fenring  
 **Assumed Relationship with your House:** Ally  
-**Notes:** also holds Salusa Secundus (planet training camp for the Sardaukar)  
 
+**Notes:**  
 The Imperial House and greatest of the Houses of the Landsraad, House Corrino has ruled the Known Universe for thousands of years. Mired in intrigues both internal and
 external, the Corrinos are ruthless and as addicted to power as they are to the spice.  
 

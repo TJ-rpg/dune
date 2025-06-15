@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Houses/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,6 +170,7 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "directory/Houses/index.md",
     "directory/Player Characters/Zibid-i_Paro.md",
     "directory/Player Characters/Takshaka_Vahal.md",
     "directory/Player Characters/Lundrak_Varmint.md",
@@ -200,7 +201,6 @@
     "directory/Locations/Carthag.md",
     "directory/Locations/Cielago_Depression.md",
     "imgs/Carthag.webp",
-    "directory/Locations/Giedi_Prime.md",
     "imgs/Giedi Prime.png",
     "imgs/Arrakeen.png",
     "imgs/Shaddam.jpg",

@@ -5,11 +5,11 @@ has_children: false
 has_toc: false
 nav_order: 99
 ---
-  
+![](../imgs/DAitI.webp)  
 # ***Dune: Adventures in the Imperium***   
 
 - The ***Dune: Adventures in the Imperium*** rule book is available on [this Google Drive link](https://drive.google.com/file/d/1HIJ-eAKioLQRO0FPb2MuwCNvTLo94OQ1/view?usp=drivesdk) with permission.  
-![](../imgs/Pasted%20image%2020250531132905.png)  
+  
 ## How to Play Videos
 - [Basic Rules](https://youtu.be/l52lA6PDmI4?t=166)  
 - [How to Create a Character](https://youtu.be/zXnPS0u573s?t=473)  

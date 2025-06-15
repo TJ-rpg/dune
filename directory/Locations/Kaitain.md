@@ -12,8 +12,6 @@ image:
 details:
 ---
 {% include header_directories.md %}
-  
-![](../../imgs/Kaitain.png)  
 ![](../../imgs/Kaitan.webp)  
 **Star System:** Alpha Waiping  
 **Moons:** Four  
@@ -62,3 +60,5 @@ out before them. Anything less risks the eye of the
 Imperial bureaucracy. The people are lawful and
 happy, or at the very least appear to be to avoid
 repercussions.  
+
+![](../../imgs/Kaitain.png)   

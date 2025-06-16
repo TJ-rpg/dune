@@ -13,7 +13,9 @@ details:
 ---
 
 {% include header_directories.md %}
-
+  
+![](../../imgs/IMG_9054.jpeg)  
+   
 **House Status:** Major House  
 **Home World:** Nexis  
 **House Traits:** technological prowess; immoral; suspicious  

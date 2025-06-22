@@ -11,7 +11,8 @@ parent: Directory
 {% include header_directories.md %}
 
 [Count Lucar Varmoth](Count_Lucar_Varmoth.md)  
-[Kleya Leanne Naser Varmoth](Kleya_Leanne_Naser_Varmoth.md)  
+[Dali Tarek Nivahn](Dali_Tarek_Nivahn.md)  
+[Lady Kleya Leanne Naser Varmoth](Kleya_Leanne_Naser_Varmoth.md)  
 [Lavro](Lavro.md)  
 [Lundrak Varmint](Lundrak_Varmint.md)  
 [Takshaka Vahal](Takshaka_Vahal.md)  

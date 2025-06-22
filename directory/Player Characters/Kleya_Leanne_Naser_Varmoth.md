@@ -4,7 +4,7 @@ template: 0.4
 type: people
 nav_exclude: false
 parent: Player Characters
-title: Kleya Leanne Naser Varmoth (Katie)
+title: Lady Kleya Leanne Naser Varmoth (Katie)
 role: 
 status: 
 flavour: 

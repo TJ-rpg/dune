@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Player Characters/index.md",
+                "file": "Dune_Adventures_In_The_Imperium_System/Core_Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Core_Rules"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 302.5
   },
   "right": {
     "id": "a83dcd3a78837a39",
@@ -170,8 +170,15 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
-    "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
+    "Dune_Adventures_In_The_Imperium_System/index.md",
+    "Dune_Adventures_In_The_Imperium_System/Spice_Harvesting_Procedure.md",
+    "Dune_Adventures_In_The_Imperium_System/Core_Rules.md",
+    "Dune - Adventures in the Imperium System/index.md",
+    "Dune_Adventures_In_The_Imperium_System/The_Spice_Must_Flow/index.md",
+    "Dune_Adventures_In_The_Imperium_System/The_Spice_Must_Flow",
+    "Dune_Adventures_In_The_Imperium_System",
     "directory/Player Characters/index.md",
+    "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
     "directory/Player Characters/Dali_Tarek_Nivahn.md",
     "campaigns/The_Spice_Must_Flow/Introduction.md",
     "campaigns/The_Spice_Must_Flow/index.md",
@@ -185,7 +192,6 @@
     "directory/Houses/House_Harkonnen.md",
     "directory/Houses/House_Alexin.md",
     "directory/Houses/House_Corrino.md",
-    "Dune - Adventures in the Imperium System/index.md",
     "imgs/DAitI.webp",
     "imgs/Pasted image 20250531132905.png",
     "imgs/Pasted image 20250528194420.png",
@@ -197,13 +203,9 @@
     "directory/Player Characters/Lundrak_Varmint.md",
     "directory/Player Characters/Placeholder for PC.md",
     "directory/Player Characters/Takshaka_Vahal.md",
-    "directory/Player Characters/Zibid-i_Paro.md",
     "imgs/Vandaruk.png",
-    "directory/Locations/Arrakeen.md",
     "imgs/dfik6mx-a2f82572-8462-4905-977e-c53bedd5ac55.jpeg",
     "imgs/House Varmoth Symbol.png",
-    "index.md",
-    "directory/Non-Player Characters/Piter_de_Vries.md",
     "imgs/Dune Title.jpeg",
     "imgs/Kaitan.webp",
     "directory/Locations",

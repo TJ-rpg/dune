@@ -4,7 +4,6 @@ type:
 title: Core Rules
 parent: "Dune: Adventures in the Imperium System"
 nav_order: 21
-timestamp: 2025-06-10
 region: The Spice Must Flow
 images: 
 template: 0.4

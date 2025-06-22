@@ -1,8 +1,8 @@
 ---
 layout: default
-type: session
+type: 
 title: Core Rules
-parent: Dune_Adventures_In_The_Imperium_System
+parent: "Dune: Adventures in the Imperium System"
 nav_order: 22
 timestamp: 2025-06-10
 region: The Spice Must Flow

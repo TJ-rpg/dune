@@ -10,5 +10,5 @@ footer_content:
 ---
 
 {% include header_directories.md %} 
-[Spice Harvesting Procedure](Spice_Harvesting_Procedure.md)  
 [Core Rules](Core_Rules.md)  
+[Spice Harvesting Procedure](Spice_Harvesting_Procedure.md)  

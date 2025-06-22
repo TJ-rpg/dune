@@ -1,6 +1,6 @@
 ---
 layout: default
-type: session
+type: 
 title: Spice Harvesting Procedure
 parent: Dune_Adventures_In_The_Imperium_System
 nav_order: 21

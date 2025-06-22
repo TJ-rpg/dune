@@ -2,7 +2,7 @@
 layout: default
 type: 
 title: Spice Harvesting Procedure
-parent: Dune_Adventures_In_The_Imperium_System
+parent: "Dune: Adventures in the Imperium System"
 nav_order: 21
 timestamp: 2025-06-01
 region: The Spice Must Flow

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dune_Adventures_In_The_Imperium_System/Spice_Harvesting_Procedure.md",
+                "file": "campaigns/The_Spice_Must_Flow/Chapter_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spice_Harvesting_Procedure"
+              "title": "Chapter_1"
             }
           }
         ]
@@ -170,10 +170,12 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "campaigns/The_Spice_Must_Flow/index.md",
+    "campaigns/The_Spice_Must_Flow/Chapter_1.md",
+    "Dune_Adventures_In_The_Imperium_System/Spice_Harvesting_Procedure.md",
     "Dune_Adventures_In_The_Imperium_System/Core_Rules.md",
     "directory/Houses/House_Seraut.md",
     "directory/Houses/House_Corrino.md",
-    "Dune_Adventures_In_The_Imperium_System/Spice_Harvesting_Procedure.md",
     "imgs/Sand Harvesting Sheet.png",
     "imgs/Sand Harvesting Procedure .png",
     "Dune_Adventures_In_The_Imperium_System/index.md",
@@ -189,7 +191,6 @@
     "directory/Player Characters/index.md",
     "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
     "campaigns/The_Spice_Must_Flow/Introduction.md",
-    "campaigns/The_Spice_Must_Flow/index.md",
     "campaigns/The_Spice_Must_Flow/Prelude.md",
     "directory/Houses/House_Vertas.md",
     "directory/Houses/index.md",

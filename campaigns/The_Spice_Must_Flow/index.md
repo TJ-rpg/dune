@@ -12,3 +12,4 @@ footer_content:
 {% include header_directories.md %} 
 [Prelude](Prelude.md)  
 [Introduction](Introduction.md)  
+[Chapter 1](Chapter_1.md)  

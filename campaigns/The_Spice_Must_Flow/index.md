@@ -13,3 +13,4 @@ footer_content:
 [Prelude](Prelude.md)  
 [Introduction](Introduction.md)  
 [Chapter 1](Chapter_1.md)  
+[Chapter 2](Chapter_2.md)  

@@ -11,7 +11,7 @@ template: 0.4
 ---
 {% include header_directories.md %}  
 
-*“We make our own justice. We make it here on Arrakis—win or die.”* - Dune
+*“We make our own justice. We make it here on Arrakis—win or die.”* – Dune
 
 Count Lucar Varmoth soars over Arrakeen on his giant silver moth, its broad wings cleaving through the molten dust laden air. As he flies, his mind drifts as he acknowledges that the future of his House is on his shoulders—a mantra as real as the pulsing insect beneath him. Below, stands Lavro, House Varmoth’s stalwart Mentat advisor leaning against the hot stone balustrade of the residency balcony, his fingertips grazing the carvings of ancient storms. He watches Lucar’s descent and feels the familiar coil of dread as data flows through his mind. Inked contracts unraveling Harkonnen malice. The echo of his vision foreseeing the blaze on Giedi Prime that claimed the life of Leopold Varmoth; but alas the stubborn Count did not take heed of Lavro’s fatal warning. Now the new Count has been appointed, a novice in the ways of leadership. Perhaps his younger brother, Amar, would have proven the more prudent choice. In Lavro’s reckoning, actions are punishable only by fact and he contemplates whether history’s flames will again burn consuming the heart of House Varmoth. His mind brings up the analysis of the disappearance of three House Agents: Geeta Varmoth, cousin of Count Lucar; Talaval Weir, investigator for the House Guard; and Soram Vieno, a House technician. Has that same fatal design been forged to grind House Varmoth into the shifting sands of Arrakis?  
 

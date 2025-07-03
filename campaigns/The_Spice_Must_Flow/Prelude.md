@@ -17,7 +17,7 @@ The year is 10,171 AG. Shaddam Corrino IV has been Emperor for 15 years. The Har
 
 At the Emperor’s request, CHOAM sent independent auditors to make an assessment of Arrakis’ spice mining operations & have noticed that the region called the Cielago Depression has not been yielding as much spice volume as it used to. CHOAM believes that this is due to the “mismanagement” of the area by the Harkonnens (though they do not say this publicly, this is what is implied). Therefore, the CHOAM contract for the Cielago Depression (known to be a treacherous place but rich in spice) has been withdrawn from the Harkonnens and based on the expertise of your House Major, you have been requested to go to Arrakis to remedy this situation.  
 
-House Varmoth arrived on Arrakis around six months ago and has been establishing a residency in the north of Arrakeen from which to run the spice operations, which have recently been passed from Harkonnen control to House Varmoth. The workforce is mainly contractors who work in the desert mining spice, though House Varmoth does have a modest number of one hundred people based in Arrakeen to manage operations.  
+House Varmoth arrived on Arrakis around six months ago and has been establishing a residency in the north of Arrakeen from which to run the spice operations, which have recently been passed from Harkonnen control to House Varmoth. The workforce is mainly contractors who work in the desert mining spice, though House Varmoth does have a modest number of one hundred people based in Arrakeen to manage operations.   
 
 
 <iframe src="https://turbowarp.org/658397439/embed" width="482" height="412" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>

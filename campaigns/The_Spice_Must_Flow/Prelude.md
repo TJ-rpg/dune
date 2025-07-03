@@ -19,6 +19,5 @@ At the Emperor’s request, CHOAM sent independent auditors to make an assessmen
 
 House Varmoth arrived on Arrakis around six months ago and has been establishing a residency in the north of Arrakeen from which to run the spice operations, which have recently been passed from Harkonnen control to House Varmoth. The workforce is mainly contractors who work in the desert mining spice, though House Varmoth does have a modest number of one hundred people based in Arrakeen to manage operations.  
 
-```
+
 <iframe src="https://turbowarp.org/414716080/embed" width="482" height="412" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
-```

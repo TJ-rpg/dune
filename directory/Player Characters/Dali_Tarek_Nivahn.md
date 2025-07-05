@@ -12,7 +12,7 @@ image:
 details:
 ---
 {% include header_directories.md %}  
-## **House:** House Varmoth  
+## **House:** Varmoth  
 ## **Role:** Smuggler  
 ## **Personality Traits:** Opportunistic Idealist; Unquenchable Curiosity; Loyal to the Downtrodden  
 ## **Ambition:** Personal Glory  

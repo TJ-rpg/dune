@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Player Characters/index.md",
+                "file": "directory/Player Characters/Shizu_Varmoth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Shizu_Varmoth"
             }
           }
         ]
@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36df9783094c7ec0",
+  "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "directory/Player Characters/index.md",
     "directory/index.md",
     "directory/Player Characters/Shizu_Varmoth.md",
     "directory/Player Characters/Placeholder for PC.md",
@@ -178,7 +179,6 @@
     "directory/Player Characters/Takshaka_Vahal.md",
     "directory/Player Characters/Dali_Tarek_Nivahn.md",
     "directory/Player Characters/Count_Lucar_Varmoth.md",
-    "directory/Player Characters/index.md",
     "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
     "directory/Player Characters/Lavro.md",
     "campaigns/The_Spice_Must_Flow/Prelude.md",

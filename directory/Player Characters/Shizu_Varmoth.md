@@ -13,10 +13,9 @@ details:
 ---
 {% include header_directories.md %}  
 ## **House:** Varmoth  
-## **Role:** x  
-## **Faction:** x  
+## **Role:** Minor Noble (Scout)  
 ## **Personality Traits:** Noble; Leader  
-## **Ambition:** x  
+## **Ambition:** To serve House Varmoth  
 
 # **Drives**   
 # ***Duty:*** 7  

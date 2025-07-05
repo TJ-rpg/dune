@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/index.md",
+                "file": "directory/Player Characters/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c81c3086fda7242",
+  "active": "36df9783094c7ec0",
   "lastOpenFiles": [
+    "directory/index.md",
     "directory/Player Characters/Shizu_Varmoth.md",
     "directory/Player Characters/Placeholder for PC.md",
     "directory/Player Characters/Lundrak_Varmint.md",
@@ -193,7 +194,6 @@
     "imgs/Sand Harvesting Sheet.png",
     "imgs/Sand Harvesting Procedure .png",
     "Dune_Adventures_In_The_Imperium_System/index.md",
-    "directory/index.md",
     "Dune - Adventures in the Imperium System/index.md",
     "Dune_Adventures_In_The_Imperium_System/The_Spice_Must_Flow/index.md",
     "Dune_Adventures_In_The_Imperium_System/The_Spice_Must_Flow",

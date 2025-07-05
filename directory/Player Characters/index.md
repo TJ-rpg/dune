@@ -15,6 +15,6 @@ parent: Directory
 [Lady Kleya Leanne Naser Varmoth](Kleya_Leanne_Naser_Varmoth.md)  
 [Lavro](Lavro.md)  
 [Lundrak Varmint](Lundrak_Varmint.md)  
-[Shizu Varmoth](Shizu_Varmoth.md)
+[Shizu Varmoth](Shizu_Varmoth.md)  
 [Takshaka Vahal](Takshaka_Vahal.md)  
 [Zibid-i Paro](Zibid-i_Paro.md)  

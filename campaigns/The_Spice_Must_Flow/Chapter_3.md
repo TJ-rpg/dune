@@ -11,8 +11,7 @@ template: 0.4
 ---
 {% include header_directories.md %}  
 
-*“What benefits Harkonnen benefits the Landsraad. What benefits the Landsraad benefits CHOAM. And CHOAM benefits all. We must all work together. Economic fertility sustains us and I wish merely to manure that ground. Those who accuse me of corruptive practices simply envy my success. My only answer is, ‘Why are they so poor’”*  
-– Baron Vladimir Harkonnen (Dune Encyclopaedia)
+*“What benefits Harkonnen benefits the Landsraad. What benefits the Landsraad benefits CHOAM. And CHOAM benefits all. We must all work together. Economic fertility sustains us and I wish merely to manure that ground. Those who accuse me of corruptive practices simply envy my success. My only answer is, ‘Why are they so poor’”* – Baron Vladimir Harkonnen (Dune Encyclopaedia)
 
 Lucar Varmoth studied his cousin across the break of morning light, the patterns of the Varmoth crest casting long silhouettes across the stone floor. His voice, sharp and clear, sliced through the warm air perfumed by spice-tea and roasted grains.
 

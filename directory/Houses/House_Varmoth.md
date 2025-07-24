@@ -31,3 +31,53 @@ Thundäruk itself is a land of extremes. It is a dark, forbidding sphere defined
 Within this austere and enigmatic society, the noble classes set themselves apart through their flamboyant style. They adorn themselves in opulent garments fashioned from silky moth threads—a fabric that glimmers with a subtle iridescence. Their appearance is further marked by long, flowing beards and a cascade of curly hair, hallmarks of their storied heritage and a visible claim to their elevated status.  
   
 ![](../../imgs/Vandaruk.png)  
+
+### Dune House Personnel 
+
+**Nobles:**  
+1x House Leader (**Count Lucar Varmoth** - recently ascended to House Leader after death of the previous leader on Giedi Prime)  
+1x Consort (**Lady Kleya Leanne Naser Varmoth**)  
+2x Heirs  
+6x other noble family members (inc. **Shizu Varmoth** & Geeta Varmoth)  
+
+**Security / Protection:**
+1x House Warmaster (Michi Valadar)  
+29x Soldiers  
+1x Captain of the Guard (**Takshaka Vahal**)  
+7x House Guards (including Talaval Weir (missing))  
+2x Swordmasters (inc. one trainee)  
+1x Spymaster (**Lundrak Varmint**)  
+1x Infiltrator (**Zibid-i Paro**)  
+1x Smuggler (**Dali Tarek Nivahn**)  
+
+
+**Administration:**
+5x Advisors:  
+1x Mentat (**Lavro**)  
+1x Military Strategist  
+1x Councillor  
+1x Scholar  
+1x Treasurer  
+2x House Stewards (inc. Farren)  
+2x Physician (including 1x Suk Doctor)  
+1x housekeeper  
+10x house staff (chefs, cleaners, etc.) inc. Hauta Urgan  
+4x ground vehicle drivers  
+5x ornithopter pilots  
+
+
+**Spice Harvesting Management (Plus contacted spice workers):**
+1x Spice Master (Head of Spice Mining)  
+1x Chief Scientist / Engineer  
+6x Clerks / Analysts  
+4x Technicians (including Soram Vieno (missing) & Igna Dolbo)  
+
+
+**Total = 98**
+
+
+**Equipment:**
+2x large ornithopters (10-man plus pilot)  
+2x medium ornithopters (5-man plus pilot)  
+Access to Wormsign Spotters (2-man plus pilot)  
+

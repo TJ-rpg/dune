@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Houses/House_Vertas.md",
+                "file": "directory/Houses/House_Varmoth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House_Vertas"
+              "title": "House_Varmoth"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "directory/Houses/House_Vertas.md",
     "directory/Houses/House_Varmoth.md",
     "campaigns/The_Spice_Must_Flow/Chapter_2.md",
     "campaigns/The_Spice_Must_Flow/Chapter_1.md",
@@ -195,7 +196,6 @@
     "Dune_Adventures_In_The_Imperium_System/Spice_Harvesting_Procedure.md",
     "Dune_Adventures_In_The_Imperium_System/Core_Rules.md",
     "directory/Houses/House_Seraut.md",
-    "directory/Houses/House_Corrino.md",
     "imgs/Sand Harvesting Sheet.png",
     "imgs/Sand Harvesting Procedure .png",
     "Dune_Adventures_In_The_Imperium_System/The_Spice_Must_Flow",

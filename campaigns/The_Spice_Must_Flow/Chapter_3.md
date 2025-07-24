@@ -33,7 +33,7 @@ The quiet meal fractured into motion. The Harkonnens had reached inside the wall
 
 Shortly after, an unexpected visitor arrived: Tamara Pilru of House Vertas, tall and serene in a robe the colour of twilight and burnt emerald, walked into the great hall with two silent guards and a personal scribe who walked as if he saw nothing and everything at once.
 
-Lucar recognized the scent of diplomacy before she even spoke—a subtle perfume of etiquette, caution, and concealed blades.
+Lucar recognised the scent of diplomacy before she even spoke—a subtle perfume of etiquette, caution, and concealed blades.
 
 Pilru bowed, hands clasped in the old manner. “Noble cousins of House Varmoth,” she intoned. “We bring gifts—cloth, and truth.”
 

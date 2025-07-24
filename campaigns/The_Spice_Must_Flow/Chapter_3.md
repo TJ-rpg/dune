@@ -105,7 +105,7 @@ Takshaka ignited his shield. “Stay close,” he barked. “To the bridge!”
 
 They moved through fire and panic. In the chaos, Telgu vanished, bowing with civility. “If you need help,” he said, “send a courier.”
 
-And then—a signal. A figure in the crowd. Vernius. A whisper: “Tomorrow. Second shift. Fourth forge-ward.”
+And then—a signal. A figure in the crowd. Vertas. A whisper: “Tomorrow. Second shift. Fourth forge-ward.”
 
 And he was gone.
 
@@ -125,7 +125,7 @@ Lucar demanded to see the wreckage of his father’s ship. Piter acquiesced with
 
 There, in the shadow of a broken sky, Lavro examined the husk of twisted metal.
 
-“It was sabotage,” he whispered. “The engine did not fail. An incendiary device was placed carefully to make the engine look like it failed.”
+“It was sabotage,” he whispered. “The engine was not faulty. An incendiary device was placed carefully to make the engine look like it failed.”
 
 Lucar did not speak. He did not have to.
 

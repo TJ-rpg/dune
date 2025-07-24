@@ -54,11 +54,11 @@ Within this austere and enigmatic society, the noble classes set themselves apar
 
 **Administration:**  
 5x Advisors:  
-1x Mentat (**Lavro**)  
-1x Military Strategist  
-1x Councillor  
-1x Scholar  
-1x Treasurer  
+- 1x Mentat (**Lavro**)  
+- 1x Military Strategist  
+- 1x Councillor  
+- 1x Scholar  
+- 1x Treasurer  
 2x House Stewards (inc. Farren)  
 2x Physician (including 1x Suk Doctor)  
 1x housekeeper  
@@ -67,7 +67,7 @@ Within this austere and enigmatic society, the noble classes set themselves apar
 5x ornithopter pilots  
 
 
-**Spice Harvesting Management (Plus contacted spice workers):**  
+**Spice Harvesting Management (Plus contracted spice workers):**  
 1x Spice Master (Head of Spice Mining)  
 1x Chief Scientist / Engineer  
 6x Clerks / Analysts  

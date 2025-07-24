@@ -34,13 +34,14 @@ Within this austere and enigmatic society, the noble classes set themselves apar
 
 ### Dune House Personnel 
 
+
 **Nobles:**  
 1x House Leader (**Count Lucar Varmoth** - recently ascended to House Leader after death of the previous leader on Giedi Prime)  
 1x Consort (**Lady Kleya Leanne Naser Varmoth**)  
 2x Heirs  
 6x other noble family members (inc. **Shizu Varmoth** & Geeta Varmoth)  
 
-**Security / Protection:**
+**Security / Protection:**  
 1x House Warmaster (Michi Valadar)  
 29x Soldiers  
 1x Captain of the Guard (**Takshaka Vahal**)  
@@ -51,7 +52,7 @@ Within this austere and enigmatic society, the noble classes set themselves apar
 1x Smuggler (**Dali Tarek Nivahn**)  
 
 
-**Administration:**
+**Administration:**  
 5x Advisors:  
 1x Mentat (**Lavro**)  
 1x Military Strategist  
@@ -66,7 +67,7 @@ Within this austere and enigmatic society, the noble classes set themselves apar
 5x ornithopter pilots  
 
 
-**Spice Harvesting Management (Plus contacted spice workers):**
+**Spice Harvesting Management (Plus contacted spice workers):**  
 1x Spice Master (Head of Spice Mining)  
 1x Chief Scientist / Engineer  
 6x Clerks / Analysts  
@@ -76,7 +77,7 @@ Within this austere and enigmatic society, the noble classes set themselves apar
 **Total = 98**
 
 
-**Equipment:**
+**Equipment:**  
 2x large ornithopters (10-man plus pilot)  
 2x medium ornithopters (5-man plus pilot)  
 Access to Wormsign Spotters (2-man plus pilot)  

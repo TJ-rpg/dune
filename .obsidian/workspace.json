@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Player Characters/index.md",
+                "file": "campaigns/The_Spice_Must_Flow/Chapter_3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Chapter_3"
             }
           }
         ]
@@ -170,8 +170,16 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
-    "directory/Player Characters/Shizu_Varmoth.md",
+    "index.md",
+    "inklings.md",
+    "campaigns/The_Spice_Must_Flow/Chapter_3.md",
+    "campaigns/The_Spice_Must_Flow/Chapter_1.md",
+    "campaigns/The_Spice_Must_Flow/Chapter_2.md",
+    "campaigns/The_Spice_Must_Flow/Introduction.md",
+    "campaigns/The_Spice_Must_Flow/Prelude.md",
+    "directory/Non-Player Characters/Hasimir_Fenring.md",
     "directory/Player Characters/index.md",
+    "directory/Player Characters/Shizu_Varmoth.md",
     "directory/index.md",
     "directory/Player Characters/Placeholder for PC.md",
     "directory/Player Characters/Lundrak_Varmint.md",
@@ -181,11 +189,7 @@
     "directory/Player Characters/Count_Lucar_Varmoth.md",
     "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
     "directory/Player Characters/Lavro.md",
-    "campaigns/The_Spice_Must_Flow/Prelude.md",
     "campaigns/The_Spice_Must_Flow/index.md",
-    "campaigns/The_Spice_Must_Flow/Chapter_2.md",
-    "campaigns/The_Spice_Must_Flow/Chapter_1.md",
-    "campaigns/The_Spice_Must_Flow/Introduction.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
     "Dune_Adventures_In_The_Imperium_System/Spice_Harvesting_Procedure.md",
     "Dune_Adventures_In_The_Imperium_System/Core_Rules.md",
@@ -194,12 +198,8 @@
     "imgs/Sand Harvesting Sheet.png",
     "imgs/Sand Harvesting Procedure .png",
     "Dune_Adventures_In_The_Imperium_System/index.md",
-    "Dune - Adventures in the Imperium System/index.md",
-    "Dune_Adventures_In_The_Imperium_System/The_Spice_Must_Flow/index.md",
     "Dune_Adventures_In_The_Imperium_System/The_Spice_Must_Flow",
     "Dune_Adventures_In_The_Imperium_System",
-    "directory/Houses/House_Vertas.md",
-    "directory/Houses/index.md",
     "imgs/IMG_9054.jpeg",
     "imgs/DAitI.webp",
     "imgs/Pasted image 20250531132905.png",

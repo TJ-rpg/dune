@@ -4,7 +4,7 @@ type: session
 title: Chapter 2
 parent: The Spice Must Flow
 nav_order: 24
-timestamp: 2025-06-24
+timestamp: 2025-07-01
 region: The Spice Must Flow
 images: 
 template: 0.4
@@ -80,7 +80,7 @@ The next morning, the party embark on the ornithopter breathing in the cool pre-
 
 They disembark, boots sinking into sand that shifts like memories. The sietch yawns empty—walls crumbled, silent.
 
-Geeta’s gaze sweeps the ruins, lips tight. “I don’t remember this place” she whispers.
+Geeta’s gaze sweeps the ruins, lips tight. “I don’t remember this place,” she whispers.
 
 Lavro crouches by a faded mural of Fremen sigils. “This place hasn’t seen life in years,” he declares. “Geeta must have been brought here by those raiders before the Harkonnens retrieved her.”  
 

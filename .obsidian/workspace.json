@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/The_Spice_Must_Flow/index.md",
+                "file": "campaigns/The_Spice_Must_Flow/Chapter_3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Chapter_3"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
-    "campaigns/The_Spice_Must_Flow/Chapter_3.md",
     "campaigns/The_Spice_Must_Flow/index.md",
+    "campaigns/The_Spice_Must_Flow/Chapter_3.md",
     "campaigns/The_Spice_Must_Flow/Chapter_2.md",
     "campaigns/The_Spice_Must_Flow/Chapter_1.md",
     "campaigns/The_Spice_Must_Flow/Introduction.md",

@@ -31,7 +31,7 @@ Lucar rose. “How?”
 
 The quiet meal fractured into motion. The Harkonnens had reached inside the walls of Varmoth again, and still, their oily fingerprints eluded consequence.
 
-Later, an unexpected visitor arrived: Tamara Pilru of House Vertas, tall and serene in a robe the colour of twilight and burnt emerald, walked into the great hall with two silent guards and a personal scribe who walked as if he saw nothing and everything at once.
+Shortly after, an unexpected visitor arrived: Tamara Pilru of House Vertas, tall and serene in a robe the colour of twilight and burnt emerald, walked into the great hall with two silent guards and a personal scribe who walked as if he saw nothing and everything at once.
 
 Lucar recognized the scent of diplomacy before she even spoke—a subtle perfume of etiquette, caution, and concealed blades.
 

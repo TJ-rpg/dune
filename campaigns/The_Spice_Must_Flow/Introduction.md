@@ -21,7 +21,7 @@ This plaintive entreaty echoes as a subtle admonition, as if sung by the dying v
 
 Surrounding me, the instruments of our household assume their appointed roles with a singular focus that mirrors the desert’s own brutal exactness:  
 
-Lauro, the cold, calculating and unyielding Mentat, scrutinises the volatile Arrakeen atmosphere, his mind weaving inner, silent computations analysing the desert’s chaotic rhythm. He is a creature of intellect, his gaze fixed on unravelling the mysteries born of sand and squall.  
+Lavro, the cold, calculating and unyielding Mentat, scrutinises the volatile Arrakeen atmosphere, his mind weaving inner, silent computations analysing the desert’s chaotic rhythm. He is a creature of intellect, his gaze fixed on unravelling the mysteries born of sand and squall.  
 
 Kleya Leanna Nasser Varmoth, my reserved and unflinching stepmother, watches over us with a dignified solemnity, a presence steeped in Bene Gesserit heritage that commands wary respect. With few words and a knowing gaze, she embodies both caution and the silent burden of our shared legacy.  
 
@@ -29,7 +29,9 @@ Nearby, stands Lundrak Varmint, our enigmatic spymaster, whose loyalties used to
 
 At his side, Takshaka, the stalwart and battle-hardened Captain of the Guard and my erstwhile duellist mentor, fixes me with eyes that weigh my every move, balancing critique with an implicit hope that I might rise in this moment.  
 
-Then from across the dusty landing field, our irreverent and incorrigibly sharp infiltrator Zibid-i, appears tempered over six unforgiving months of sojourn amidst Arrakis’s merciless wastes that have sharpened his cocky wit. He steps forward with a smile as sly as a mirage. He offers a tempting defiance against the silence of submission cutting through the solemnity like a practiced blade.  
+Then from across the dusty landing field, our irreverent and incorrigibly sharp infiltrator Zibid-i, appears tempered over six unforgiving months of sojourn amidst Arrakis’s merciless wastes that have sharpened his cocky wit. He steps forward with a smile as sly as a mirage. He offers a tempting defiance against the silence of submission cutting through the solemnity like a practiced blade. 
+
+Accompanying him was a man clad in a weather-beaten cloak the color of sandshadow and spice-dust. Dali looked like any other fringe operative, until you saw the gleam behind his eyes. Ambition, finely honed and carefully concealed. Dali squinted up at the Varmoth insignia on the Count Varmoth’s lapel, wolfish and certain.  
 
 In this crucible of legacy and new beginnings, the winds rise and ancient echoes of endless sand murmur across the horizon and the litany against fear resounds within me as I confront the full measure of my inheritance. Arrakis is both adversary and training ground where only those who master both the storm cloud within and the tempest without may forge their destiny. With each measured step, I vow to transmute our ancient glories and deceptions into a future wrought by unerring intellect. The daring resolve and the indomitable spirit of a house that once conquered the fury of its own immortal storms, meets the unstoppable, relentless mystique of a desert that never forgives nor forgets.  
 

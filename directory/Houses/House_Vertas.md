@@ -18,7 +18,7 @@ details:
    
 **House Status:** Major House  
 **Home World:** Nexis  
-**House Traits:** technological prowess; immoral; suspicious  
+**House Traits:** technological prowess; immoral; suspicious of others  
 **Primary domain:** Spice Mining (manufacture of spice separation technology)  
 **Secondary domains:** Military (production of ammunition); Artistic (supply actors for theatre)  
 **Key Figures:** Duke Damar Vertas (Ruler); Lady Zevara Vertas (Consort); Rovan Vertas (Heir); Kaiya Vertas (Heir); Tamara Pilru (House Envoy)  

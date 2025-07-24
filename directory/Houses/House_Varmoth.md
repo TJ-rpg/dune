@@ -18,10 +18,10 @@ details:
   
 **House Status:** Major House  
 **Home World:** Thundäruk  
-**House Traits:** Religious Power; Deceptive  
+**House Traits:** Religious Power; Deceptive; Allies of the People of Arrakeen  
 **Primary domain:** Genetically Modified Giant Moth Dome Technology  
 **Secondary domains:** Worker Management (Industrial); Espionage (Supply of Incriminating Information)  
-**Key Figures:** Count Leoplod Varmoth (deceased); Count Lucar Varmoth; Kleya Leanne Naser Varmoth; Lavro; Lundrak Varmint; Takshaka Vahal; Zibid-i Paro  
+**Key Figures:** Count Leopold Varmoth (deceased); Count Lucar Varmoth; Kleya Leanne Naser Varmoth; Lavro; Lundrak Varmint; Takshaka Vahal; Zibid-i Paro  
 
 **Notes:**  
 House Varmoth hails from the formidable planet Thundäruk, a world where nature and ingenuity intertwine in spectacular fashion. On this rugged planet, its inhabitants have cultivated enormous moth chrysalises crafted from a mysterious, energy-charged material. These chrysalises capture the fierce power of lightning and the relentless fury of storms, transforming into colossal bio-domes known as Chrysalis Bastials. These living fortresses can be grown so vast that they shelter entire cities beneath their luminous, organic arches. From these very chrysalises emerge giant moths—majestic, awe-inspiring creatures large enough to be ridden, symbolising both freedom and the raw might of nature.  

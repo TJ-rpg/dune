@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Non-Player Characters/index.md",
+                "file": "directory/Non-Player Characters/Glossu_Rabban.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Glossu_Rabban"
             }
           }
         ]
@@ -170,6 +170,9 @@
   },
   "active": "1c81c3086fda7242",
   "lastOpenFiles": [
+    "directory/Non-Player Characters/Geeta_Varmoth.md",
+    "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
+    "directory/Non-Player Characters/index.md",
     "directory/Non-Player Characters/Glossu_Rabban.md",
     "directory/Non-Player Characters/Tamara_Pilru.md",
     "directory/Non-Player Characters/Shaddam_Corrino.md",
@@ -180,10 +183,7 @@
     "directory/Player Characters/Lundrak_Varmint.md",
     "directory/Player Characters/Lavro.md",
     "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
-    "directory/Non-Player Characters/index.md",
     "directory/Non-Player Characters/Piter_de_Vries.md",
-    "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
-    "directory/Non-Player Characters/Geeta_Varmoth.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
     "directory/Houses/House_Varmoth.md",
     "directory/Houses/House_Vertas.md",

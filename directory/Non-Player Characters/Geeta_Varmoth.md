@@ -14,8 +14,8 @@ details:
 
 {% include header_directories.md %}
 
-One of the younger adult nobles in House Nagara,
-Geeta has always been restless and eager to follow her
+Geeta is one of the younger adult nobles in House Varmoth and cousin of Count Lucar Varmoth.
+She has always been restless and eager to follow her
 nose into trouble. After showing that she could also
 get herself back out of it, she ended up undertaking
 official scouting, surveying, and exploration missions

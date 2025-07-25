@@ -18,4 +18,6 @@ Pilru is a loyal member of House Vertas and devoted
 to their agenda. A middle-aged woman, she takes pains
 to dress stylishly, but not extravagantly, to do honor to
 her House. Pilru is a skilled and cosmopolitan diploma
-who has spent time at many courts of the Landsraad.
+who has spent time at many courts of the Landsraad.  
+
+Tamara is arrogant but diplomatic and has skills in Navigation and Imperium Politics.

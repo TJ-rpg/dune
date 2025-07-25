@@ -28,3 +28,6 @@ contribute to their downfall.
 Geeta is tall and athletic, with dark skin and short hair.
 She quickly adapted to stillsuit use, but when she’s not
 wearing one, she likes simple, unencumbering garb.  
+
+Geeta is daring and proud. She is stealthy and has skills in espionage.  
+

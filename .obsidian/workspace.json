@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Geeta_Varmoth"
             }
+          },
+          {
+            "id": "92464584e8e67df2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "directory/Player Characters/Hassan_Diago.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hassan_Diago"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "or",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,21 +185,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c81c3086fda7242",
+  "active": "207c411c3cc4fd6e",
   "lastOpenFiles": [
+    "directory/Player Characters/Lundrak_Varmint.md",
+    "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
+    "directory/Player Characters/index.md",
+    "directory/Player Characters/Placeholder for PC.md",
+    "directory/Player Characters/Zibid-i_Paro.md",
+    "directory/Player Characters/Takshaka_Vahal.md",
+    "directory/Player Characters/Hassan_Diago.md",
+    "directory/Player Characters/Dali_Tarek_Nivahn.md",
     "directory/Non-Player Characters/Glossu_Rabban.md",
     "directory/Non-Player Characters/Tamara_Pilru.md",
     "directory/Non-Player Characters/Shaddam_Corrino.md",
     "directory/Non-Player Characters/Geeta_Varmoth.md",
-    "directory/Player Characters/Placeholder for PC.md",
     "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
     "directory/Non-Player Characters/index.md",
-    "directory/Player Characters/Zibid-i_Paro.md",
-    "directory/Player Characters/Takshaka_Vahal.md",
     "directory/Player Characters/Shizu_Varmoth.md",
-    "directory/Player Characters/Lundrak_Varmint.md",
     "directory/Player Characters/Lavro.md",
-    "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
     "directory/Non-Player Characters/Piter_de_Vries.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
     "directory/Houses/House_Varmoth.md",
@@ -193,9 +213,6 @@
     "campaigns/The_Spice_Must_Flow/Introduction.md",
     "campaigns/The_Spice_Must_Flow/Chapter_3.md",
     "campaigns/The_Spice_Must_Flow/index.md",
-    "index.md",
-    "inklings.md",
-    "directory/Non-Player Characters/Hasimir_Fenring.md",
     "imgs/Sand Harvesting Sheet.png",
     "imgs/Sand Harvesting Procedure .png",
     "Dune_Adventures_In_The_Imperium_System/The_Spice_Must_Flow",

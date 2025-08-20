@@ -4,7 +4,7 @@ template: 0.4
 type: people
 nav_exclude: false
 parent: Player Characters
-title: Hassan Diago
+title: Hassan Diago (Jacob)
 role:
 status:
 flavour:

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Player Characters/Hassan_Diago.md",
+                "file": "directory/Player Characters/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hassan_Diago"
+              "title": "index"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "or",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,15 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "207c411c3cc4fd6e",
+  "active": "92464584e8e67df2",
   "lastOpenFiles": [
+    "directory/Player Characters/Hassan_Diago.md",
+    "directory/Player Characters/index.md",
     "directory/Player Characters/Lundrak_Varmint.md",
     "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
-    "directory/Player Characters/index.md",
     "directory/Player Characters/Placeholder for PC.md",
     "directory/Player Characters/Zibid-i_Paro.md",
     "directory/Player Characters/Takshaka_Vahal.md",
-    "directory/Player Characters/Hassan_Diago.md",
     "directory/Player Characters/Dali_Tarek_Nivahn.md",
     "directory/Non-Player Characters/Glossu_Rabban.md",
     "directory/Non-Player Characters/Tamara_Pilru.md",

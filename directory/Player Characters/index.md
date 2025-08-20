@@ -12,6 +12,7 @@ parent: Directory
 
 [Count Lucar Varmoth](Count_Lucar_Varmoth.md)  
 [Dali Tarek Nivahn](Dali_Tarek_Nivahn.md)  
+[Hassan Diago](Hassan_Diago.md)  
 [Lady Kleya Leanne Naser Varmoth](Kleya_Leanne_Naser_Varmoth.md)  
 [Lavro](Lavro.md)  
 [Lundrak Varmint](Lundrak_Varmint.md)  

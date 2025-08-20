@@ -2,7 +2,7 @@
 layout: default
 template: 0.4
 type: people
-nav_exclude: true
+nav_exclude: false
 parent: Player Characters
 title: Hassan Diago
 role:

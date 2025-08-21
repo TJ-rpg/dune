@@ -8,7 +8,7 @@ has_toc: false
 parent: Directory
 
 ---
-	{% include header_directories.md %}
+{% include header_directories.md %}
 
 [Count Lucar Varmoth](Count_Lucar_Varmoth.md)  
 [Dali Tarek Nivahn](Dali_Tarek_Nivahn.md)  

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Player Characters/index.md",
+                "file": "directory/Player Characters/Hassan_Diago.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Hassan_Diago"
             }
           }
         ],
@@ -186,10 +186,18 @@
   },
   "active": "92464584e8e67df2",
   "lastOpenFiles": [
-    "directory/Player Characters/Hassan_Diago.md",
-    "directory/Player Characters/index.md",
-    "directory/Player Characters/Lundrak_Varmint.md",
+    "directory/Houses/House_Vertas.md",
+    "directory/Houses/House_Varmoth.md",
+    "directory/Houses/House_Seraut.md",
+    "directory/Houses/House_Harkonnen.md",
+    "directory/Houses/House_Ecaz.md",
+    "directory/Houses/House_Corrino.md",
+    "directory/Houses/House_Alexin.md",
     "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
+    "directory/Non-Player Characters/Geeta_Varmoth.md",
+    "directory/Player Characters/index.md",
+    "directory/Player Characters/Hassan_Diago.md",
+    "directory/Player Characters/Lundrak_Varmint.md",
     "directory/Player Characters/Placeholder for PC.md",
     "directory/Player Characters/Zibid-i_Paro.md",
     "directory/Player Characters/Takshaka_Vahal.md",
@@ -197,21 +205,13 @@
     "directory/Non-Player Characters/Glossu_Rabban.md",
     "directory/Non-Player Characters/Tamara_Pilru.md",
     "directory/Non-Player Characters/Shaddam_Corrino.md",
-    "directory/Non-Player Characters/Geeta_Varmoth.md",
     "directory/Non-Player Characters/Baron_Vladimir_Harkonnen.md",
     "directory/Non-Player Characters/index.md",
     "directory/Player Characters/Shizu_Varmoth.md",
     "directory/Player Characters/Lavro.md",
     "directory/Non-Player Characters/Piter_de_Vries.md",
     "directory/Non-Player Characters/Placeholder for NPC.md",
-    "directory/Houses/House_Varmoth.md",
-    "directory/Houses/House_Vertas.md",
     "campaigns/The_Spice_Must_Flow/Chapter_2.md",
-    "campaigns/The_Spice_Must_Flow/Chapter_1.md",
-    "campaigns/The_Spice_Must_Flow/Prelude.md",
-    "campaigns/The_Spice_Must_Flow/Introduction.md",
-    "campaigns/The_Spice_Must_Flow/Chapter_3.md",
-    "campaigns/The_Spice_Must_Flow/index.md",
     "imgs/Sand Harvesting Sheet.png",
     "imgs/Sand Harvesting Procedure .png",
     "Dune_Adventures_In_The_Imperium_System/The_Spice_Must_Flow",

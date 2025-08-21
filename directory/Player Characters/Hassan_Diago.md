@@ -44,17 +44,15 @@ details:
 
 # **Talents**  
 
-## **ADVISOR (SKILL)**  
+## **ADVISOR (UNDERSTAND)**  
 *You’ve got a knack for guiding others through problems.*  
 
-When you choose this talent, select a single skill. Whenever you assist an ally and you use that skill, the ally you
-assist may re-roll a single d20 in their dice pool.  
-## **CAUTIOUS (SKILL)**  
+Whenever you assist an ally and you use Understand, the ally you assist may re-roll a single d20 in their dice pool.  
+## **CAUTIOUS (MOVE)**  
 *You are patient and circumspect, acting only when the
 odds are in your favour.*  
 
-When you select this talent, choose a single skill. When
-you attempt a test using that skill, and you buy additional d20s by spending Momentum, you may re-roll a
+When you attempt a Move test and you buy additional d20s by spending Momentum, you may re-roll a
 single d20 in that dice pool.  
 
 ## **SUBTLE WORDS**  

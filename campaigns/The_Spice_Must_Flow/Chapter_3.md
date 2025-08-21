@@ -129,4 +129,4 @@ There, in the shadow of a broken sky, Lavro examined the husk of twisted metal.
 
 Lucar did not speak. He did not have to.
 
-His father had been murdered. The trap had been laid in silence. And now, it is time to find proof Harkonnen interference.
+His father had been murdered. The trap had been laid in silence. And now, it is time to find proof of Harkonnen interference.

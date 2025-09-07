@@ -9,7 +9,6 @@ region: The Spice Must Flow
 images:
 template: 0.4
 ---
-{% include header_directories.md %}  
 
 *“Fear and power, power and fear—these became the Baron’s most trusted tools.”* – Dune Encyclopaedia 
 
@@ -86,7 +85,19 @@ Lavro carefully examined the metal case. His mind laid it bare: a bomb, remote-t
 
 Still, the bargain had been struck. Hassan planted it with precision on the outside of the Harkonnen box, unseen, using the crowd as cover.  
 
-The party visited the spectacular Giedi Prime arena again that night as guests of Baron Harkonnen. The night was uneventful apart from the execution of some of the workers involved in the previous day’s riots, their faces etched in Lavro’s flawless memory.  
+The knock came sharp against steel—crisp as a blade’s hiss. The party froze. Kleya inhaled, tasting the metal tang in the air, and signaled Takshaka to stand ready.  
+
+When the door slid open, Andreas Teglu stepped inside. His tailored coat, cut from fabric that had never known soot. His eyes were dark pools beneath carefully groomed brows, assessing every corroded beam and half-hidden blade in the room. He offered a courteous incline of his head. 
+
+“Count Varmoth,” he said, voice smooth as refined cred, “I have a proposition I believe will serve us both.”  He moved closer, each footstep echoing against the iron floor. 
+
+“Everyone knows that Arrakis’s illegal spice routes are a plague on the Imperium—but plague can be profit. I possess certain talents: routes untraceable, networks unbreached. With your patronage, I can open those tunnels wide and ensure the profits flow into the right hands. What would you have me do in return?”  
+
+Lucar’s lips curved into a faint smile—charming, almost predatory. He let the question hang a moment before replying. “We journeyed to Giedi Prime to discover who murdered my father, Count Leopold Varmoth. Secure for me a witness whose testimony I can trust—someone beyond doubt—and I will grant you entry into those spice operations on Arrakis.”
+
+Silence spiraled in the chamber. Andreas’s fingers brushed the lapel of his coat as if weighing the fabric’s worth. Then he inclined his head again, slow and deliberate. “I believe we have a deal,” he murmured, “and I will deliver both witness and wealth.” Behind his calm, a spark gleamed—a promise of deeper games yet to be played.
+
+That night, the party visited the spectacular Giedi Prime arena again as guests of Baron Harkonnen. The night was uneventful apart from the execution of some of the workers involved in the previous day’s riots, their faces etched in Lavro’s flawless memory.  
 
 The next morning, the explosion came too late after the festivities, only damaging the Baron’s private box with no casualties.  
 

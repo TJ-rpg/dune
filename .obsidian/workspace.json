@@ -39,12 +39,14 @@
             "id": "a652884db290851c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "campaigns/The_Spice_Must_Flow/Chapter_4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Chapter_4"
             }
           }
         ],

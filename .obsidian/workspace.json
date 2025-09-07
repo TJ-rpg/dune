@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "House_Alexin"
             }
+          },
+          {
+            "id": "a652884db290851c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92464584e8e67df2",
+  "active": "a652884db290851c",
   "lastOpenFiles": [
     "campaigns/The_Spice_Must_Flow/Prelude.md",
     "campaigns/The_Spice_Must_Flow/Introduction.md",

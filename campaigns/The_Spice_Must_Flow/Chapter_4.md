@@ -104,6 +104,7 @@ The next morning, the explosion came too late after the festivities, only damagi
 Piter visited the party again, his smile serpent-thin when he accused Count Varmoth in veiled words.  
 
 Baron Vladimir himself confronted them, his massive form suspended in grotesque grace. His voice oozed contempt.  
+
 “You are near my enemies. Perhaps you are my enemies.”  
 
 Takshaka answered with boldness. “Perhaps it is Count Varmoth who is the target. If your House cannot guarantee our safety, we will leave.”  

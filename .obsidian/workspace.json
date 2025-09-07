@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/The_Spice_Must_Flow/Chapter_4.md",
+                "file": "directory/Houses/House_Varmoth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter_4"
+              "title": "House_Varmoth"
             }
           }
         ],
@@ -200,9 +200,9 @@
   },
   "active": "a652884db290851c",
   "lastOpenFiles": [
+    "campaigns/The_Spice_Must_Flow/Chapter_4.md",
     "campaigns/The_Spice_Must_Flow/Introduction.md",
     "campaigns/The_Spice_Must_Flow/index.md",
-    "campaigns/The_Spice_Must_Flow/Chapter_4.md",
     "campaigns/The_Spice_Must_Flow/Prelude.md",
     "campaigns/The_Spice_Must_Flow/Chapter_1.md",
     "campaigns/The_Spice_Must_Flow/Chapter_2.md",

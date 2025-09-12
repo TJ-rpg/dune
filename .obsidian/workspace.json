@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "directory/Houses/House_Varmoth.md",
+                "file": "campaigns/The_Spice_Must_Flow/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House_Varmoth"
+              "title": "index"
             }
           }
         ],
@@ -200,7 +200,9 @@
   },
   "active": "a652884db290851c",
   "lastOpenFiles": [
+    "campaigns/The_Spice_Must_Flow/Chapter_5.md",
     "campaigns/The_Spice_Must_Flow/Chapter_4.md",
+    "directory/Houses/House_Varmoth.md",
     "campaigns/The_Spice_Must_Flow/Introduction.md",
     "campaigns/The_Spice_Must_Flow/index.md",
     "campaigns/The_Spice_Must_Flow/Prelude.md",
@@ -210,7 +212,6 @@
     "directory/Player Characters/index.md",
     "directory/Player Characters/Hassan_Diago.md",
     "directory/Houses/House_Vertas.md",
-    "directory/Houses/House_Varmoth.md",
     "directory/Houses/House_Seraut.md",
     "directory/Houses/House_Harkonnen.md",
     "directory/Houses/House_Ecaz.md",
@@ -225,7 +226,6 @@
     "directory/Player Characters/Dali_Tarek_Nivahn.md",
     "directory/Non-Player Characters/Glossu_Rabban.md",
     "directory/Non-Player Characters/Tamara_Pilru.md",
-    "directory/Non-Player Characters/Shaddam_Corrino.md",
     "imgs/Sand Harvesting Sheet.png",
     "imgs/Sand Harvesting Procedure .png",
     "Dune_Adventures_In_The_Imperium_System/The_Spice_Must_Flow",

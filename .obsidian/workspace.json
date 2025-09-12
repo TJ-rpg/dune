@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/The_Spice_Must_Flow/Chapter_5.md",
+                "file": "directory/Houses/House_Alexin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter_5"
+              "title": "House_Alexin"
             }
           }
         ],
@@ -200,25 +200,25 @@
   },
   "active": "a652884db290851c",
   "lastOpenFiles": [
-    "campaigns/The_Spice_Must_Flow/Chapter_4.md",
-    "campaigns/The_Spice_Must_Flow/Chapter_5.md",
-    "campaigns/The_Spice_Must_Flow/index.md",
+    "directory/Houses/House_Corrino.md",
     "directory/Houses/House_Varmoth.md",
+    "directory/Non-Player Characters/Geeta_Varmoth.md",
+    "directory/Player Characters/Hassan_Diago.md",
+    "campaigns/The_Spice_Must_Flow/Chapter_5.md",
+    "campaigns/The_Spice_Must_Flow/Chapter_4.md",
+    "campaigns/The_Spice_Must_Flow/index.md",
     "campaigns/The_Spice_Must_Flow/Introduction.md",
     "campaigns/The_Spice_Must_Flow/Prelude.md",
     "campaigns/The_Spice_Must_Flow/Chapter_1.md",
     "campaigns/The_Spice_Must_Flow/Chapter_2.md",
     "campaigns/The_Spice_Must_Flow/Chapter_3.md",
     "directory/Player Characters/index.md",
-    "directory/Player Characters/Hassan_Diago.md",
     "directory/Houses/House_Vertas.md",
     "directory/Houses/House_Seraut.md",
     "directory/Houses/House_Harkonnen.md",
     "directory/Houses/House_Ecaz.md",
-    "directory/Houses/House_Corrino.md",
     "directory/Houses/House_Alexin.md",
     "directory/Player Characters/Kleya_Leanne_Naser_Varmoth.md",
-    "directory/Non-Player Characters/Geeta_Varmoth.md",
     "directory/Player Characters/Lundrak_Varmint.md",
     "directory/Player Characters/Placeholder for PC.md",
     "directory/Player Characters/Zibid-i_Paro.md",

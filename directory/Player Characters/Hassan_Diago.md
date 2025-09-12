@@ -21,7 +21,7 @@ details:
 # ***Duty:*** 7  
 ## **"My place is to serve"**  
 # ***Faith:*** 8  
-## **"I believe I have chosen the right place to serve"**  
+## **"I believe I have been chosen"**  
 # ***Justice:*** 6  
 ## **"If I serve, I will be rewarded"**  
 # ***Power:*** 5   

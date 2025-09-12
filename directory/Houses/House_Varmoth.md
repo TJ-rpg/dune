@@ -45,7 +45,7 @@ Within this austere and enigmatic society, the noble classes set themselves apar
 1x House Warmaster (Michi Valadar)  
 29x Soldiers  
 1x Captain of the Guard (**Takshaka Vahal**)  
-7x House Guards (including Talaval Weir (missing))  
+5x House Guards (including Abiya, Rigiljo & Lugul; excluding Talaval Weir: missing; Manu: deceased)  
 2x Swordmasters (inc. one trainee)  
 1x Spymaster (**Lundrak Varmint**)  
 1x Infiltrator (**Zibid-i Paro**)  
@@ -74,11 +74,11 @@ Within this austere and enigmatic society, the noble classes set themselves apar
 4x Technicians (including Soram Vieno (missing) & Igna Dolbo)  
 
 
-**Total = 98**
+**Total = 96**
 
 
 **Equipment:**  
-2x large ornithopters (10-man plus pilot)  
+1x large ornithopters (10-man plus pilot)  
 5x medium ornithopters (5-man plus pilot; 2 assigned to Spice Harvesting in the Cielago Depression; 1 assigned to Security in Arrakeen)  
 Access to Wormsign Spotters (2-man plus pilot)  
 

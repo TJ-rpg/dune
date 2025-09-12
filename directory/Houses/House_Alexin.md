@@ -21,7 +21,7 @@ details:
 **House Traits:** Well-respected; industrious  
 **Primary domains:** Industrial agriculture & food production  
 **Secondary domain:** Musical instruments  
-**Key Figures:** Prince Kole Alexin (Ruler); Godwin Alexin (Courtier Assassin); Ryssa (Bene Gesserit, Minor Heir); Lord Trevnor (House Noble); Lady Ottavia (Bene Gesserit Acolyte)  
+**Key Figures:** Prince Kole Alexin (Ruler); Godwyn Alexin (Courtier Assassin); Ryssa (Bene Gesserit, Minor Heir); Lord Trevnor (House Noble); Lady Ottavia (Bene Gesserit Acolyte)  
 **Assumed Relationship with your House:** neutral  
 
 **Notes:**  

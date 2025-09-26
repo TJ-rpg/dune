@@ -20,7 +20,7 @@ details:
 
 # **Drives**   
 # ***Duty:*** 6  
-## **"Duty is a bolt of lightning"**  
+## **"What must be done, must be done"**  
 # ***Faith:*** 7  
 ## **"My faith gives me certainty, like the wings of a moth"**  
 # ***Justice:*** 4  

@@ -78,7 +78,7 @@ Within this austere and enigmatic society, the noble classes set themselves apar
 
 
 **Equipment:**  
-1x large ornithopters (10-man plus pilot)  
+1x large ornithopters (9-man plus pilot)  
 5x medium ornithopters (5-man plus pilot; 2 assigned to Spice Harvesting in the Cielago Depression; 1 assigned to Security in Arrakeen)  
 Access to Wormsign Spotters (2-man plus pilot)  
 

@@ -11,7 +11,7 @@ template: 0.4
 ---
 {% include header_directories.md %}  
 
-“You see, my climate demands a special attitude towards water. You are aware of water at all times. You waste nothing that contains moisture.” - Liet Kynes
+*“You see, my climate demands a special attitude towards water. You are aware of water at all times. You waste nothing that contains moisture.”* - Liet Kynes
 
 They gathered beneath the low orange wash of Arrakis’s sky. The effigy of Manu lay like an accusation wrapped in moth-silk: hands, face, the shape of a man held in the careful geometry of ritual. Artificers had crafted a funeral cocoon—a chrysalis organ that drank the storm and protected its charge.
 

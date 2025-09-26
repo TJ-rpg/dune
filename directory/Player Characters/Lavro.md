@@ -40,7 +40,7 @@ details:
 # **Assets**  
 ## **Chrysalis Bastial**  
 ## **Raw Materials**  
-## **Valuable Item**  
+## **Distrans Bat**  
 
 # **Talents**  
 

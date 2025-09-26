@@ -3,12 +3,14 @@ layout: default
 type: session
 title: Chapter 5
 parent: The Spice Must Flow
-nav_order: 24
+nav_order: 27
 timestamp: 2025-09-09
 region: The Spice Must Flow
 images:
 template: 0.4
 ---
+{% include header_directories.md %}  
+
 *“And I beheld another beast coming up out of the sand; and he had two horns like a lamb, but his mouth was fanged and fiery as the dragon, and his body shimmered and burned with great heat while it did hiss like the serpent.”* – The Orange Catholic Bible
 
 Count Lucar Varmoth turned pages as other men might turn prayer beads. Paper and report had an economy of truth: spice production diminished through a sequence of failures; two harvesters removed from the ledger by the appetite of the desert. Houses feed on such arithmetic. The Emperor’s quota was a litmus; Varmoth’s vaults contained enough to salve immediate alarms, but not enough to buy silence from the market and CHOAM. A House that could not produce spice for the Imperium was a House stripped of future; a House without future became a story told by enemies.

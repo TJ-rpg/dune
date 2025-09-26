@@ -3,12 +3,13 @@ layout: default
 type: session
 title: Chapter 4
 parent: The Spice Must Flow
-nav_order: 24
+nav_order: 26
 timestamp: 2025-08-19
 region: The Spice Must Flow
 images:
 template: 0.4
 ---
+{% include header_directories.md %}  
 
 *“Fear and power, power and fear—these became the Baron’s most trusted tools.”* – Dune Encyclopaedia 
 

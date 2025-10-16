@@ -18,3 +18,4 @@ footer_content:
 [Chapter 4](Chapter_4.md)  
 [Chapter 5](Chapter_5.md)  
 [Chapter 6](Chapter_6.md)  
+[Chapter 7](Chapter_7.md)  

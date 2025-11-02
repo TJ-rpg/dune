@@ -3,7 +3,7 @@ layout: default
 type: session
 title: Chapter 7
 parent: The Spice Must Flow
-nav_order: 28
+nav_order: 29
 timestamp: 2025-10-14
 region: The Spice Must Flow
 images:

@@ -8,7 +8,6 @@ has_toc: false
 nav_exclude: false
 footer_content:
 ---
-
 {% include header_directories.md %} 
 [Prelude](Prelude.md)  
 [Introduction](Introduction.md)  
@@ -20,3 +19,4 @@ footer_content:
 [Chapter 6](Chapter_6.md)  
 [Chapter 7](Chapter_7.md)  
 [Chapter 8](Chapter_8.md)  
+[Chapter 9](Chapter_9.md)  

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/The_Spice_Must_Flow/Chapter_8.md",
+                "file": "campaigns/The_Spice_Must_Flow/Chapter_9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter_8"
+              "title": "Chapter_9"
             }
           }
         ]
@@ -171,9 +171,14 @@
   },
   "active": "413695b794405596",
   "lastOpenFiles": [
-    "campaigns/The_Spice_Must_Flow/Chapter_7.md",
-    "campaigns/The_Spice_Must_Flow/Chapter_8.md",
     "campaigns/The_Spice_Must_Flow/index.md",
+    "campaigns/The_Spice_Must_Flow/Chapter_9.md",
+    "imgs/Tarot Card 3.png",
+    "imgs/Tarot Card 2.png",
+    "imgs/Tarot Card 1.png",
+    "imgs/Tarot Back.png",
+    "campaigns/The_Spice_Must_Flow/Chapter_8.md",
+    "campaigns/The_Spice_Must_Flow/Chapter_7.md",
     "campaigns/The_Spice_Must_Flow/Chapter_6.md",
     "campaigns/The_Spice_Must_Flow/Chapter_5.md",
     "directory/Houses/House_Alexin.md",
@@ -195,8 +200,6 @@
     "directory/Houses/House_Seraut.md",
     "directory/Houses/House_Harkonnen.md",
     "directory/Houses/House_Ecaz.md",
-    "directory/Player Characters/Lundrak_Varmint.md",
-    "directory/Player Characters/Placeholder for PC.md",
     "imgs/Sand Harvesting Sheet.png",
     "imgs/Sand Harvesting Procedure .png",
     "Dune_Adventures_In_The_Imperium_System/The_Spice_Must_Flow",
@@ -205,10 +208,6 @@
     "imgs/DAitI.webp",
     "imgs/Pasted image 20250531132905.png",
     "imgs/Pasted image 20250528194420.png",
-    "imgs/g832.png",
-    "imgs/Vandaruk.png",
-    "imgs/dfik6mx-a2f82572-8462-4905-977e-c53bedd5ac55.jpeg",
-    "imgs/House Varmoth Symbol.png",
     "directory/Locations",
     "directory/Untitled"
   ]

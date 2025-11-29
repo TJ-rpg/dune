@@ -14,9 +14,9 @@ template: 0.4
 *“The Padishah feudal structure was stable only insofar as there existed a balance of power among ambitiously antagonistic forces. Constant distrust and the willingness to resort to any means remained the price of security.”* - Dune Encyclopaedia 
 
 
-The Heighliner tore through the sky like lightning. For House Varmoth, the journey to Kaitain was not mere travel but a movement of intent—an argument presented in motion. Beneath the hull and inscrutable engines, the party carried the brittle heart of a claim: they had been entrusted with spice operations and now must explain why gold had trickled rather than poured. Each of them kept a private ledger of guilt and remedy. In their minds, the same tally was written in different ink—science and subterfuge, duty and the hunger for reputation.
+The Heighliner tore through the sky like lightning. For House Varmoth, the journey to Kaitain was not mere travel but a movement of intent—an argument presented in motion. Beneath the hull and inscrutable engines, the party carried the brittle heart of a claim: they had been entrusted with spice operations and now must explain why spice had trickled rather than poured. Each of them kept a private ledger of guilt and remedy. In their minds, the same tally was written in different ink—science and subterfuge, duty and the hunger for reputation.
 
-Corrinth City rose in the windows of their shuttle like an assertion of geometry: towers that held the Imperial will, banners that announced alliances like heraldry in motion as the Varmoth Death Moth fluttered alongside the Corrino Lion. The platform’s trumpets already sounded a welcome that was equal parts ceremony and judgement. Princess Josifa, young and composed, stepped forward as court and courtesy combined. Beside her, the Reverend Mother Montemagni moved with a measured cruelty of gait and a precise interest that took inventory of the living as an archivist takes inventory of relics. Kleya answered the Reverend Mother with the silence of a Bene Gesserit signal—hands and eyes trading the soft grammar of sisters—and received in return a small, cold condolence for the late Count Leopold, and the small, louder praise that reputation can never quite silence.
+Corrinth City rose in the windows of their shuttle like an assertion of geometry: towers that held the Imperial will, banners that announced alliances like heraldry in motion as the Varmoth Death Moth fluttered alongside the Corrino Lion. The platform’s trumpets already sounded a welcome that was equal parts ceremony and judgement. Princess Josifa, young and composed, stepped forward as court and courtesy combined. Beside her, the Reverend Mother Montemagni moved with a measured cruelty of gait and a precise interest that took inventory of the living as an archivist takes inventory of relics. Kleya signalled the Reverend Mother with the silence of a Bene Gesserit—hands and eyes trading the soft grammar of sisters—and received in return a small, cold condolence for the late Count Leopold.
 
 The Residency was an arrangement of opulence and observation. Its windows looked down on Corrinth as one might look down on a chessboard: pieces no less cunning because they looked comfortable. Jain and Lela, perfect in their service, were guardians of itinerary and also of the palace’s hidden ear. Hassan, delighted to teach the Corrino servants the ceremonial thunder-snap of Varmoth bed-making, performed a hospitality that was also a probe. He spoke of tradition and the Servant’s place; he taught the crack of linen like one teaches a child to speak. While hands learned thunder, Lundrak learned silence. He found spy-eyes with too little difficulty—some planted for House Varmoth to discover, others planted to be discovered only by a more patient eye. He crushed the obvious ones for theatre and left the intimate ones hidden behind subtly positioned furniture. Where their enemies thought they had planted bugs, Lundrak planted his judgement instead.
 
@@ -28,9 +28,11 @@ Lundrak, in the shadows between music and conversation, moved like a needle: he 
 
 The opera-house night was theatre within theatre. The Hassik III Centre for the Performing Arts’ vastness swallowed sound and returned it as jurisprudence—every whispered hint of favour or threat would reach the balconies as doctrine.
 
-In the private box, things turned tactician. Lavro found a purse left in deliberate proximity—left, as the mind of a man who views things as nodes, a test for attention. Dali distracted and charmed the omnipresent Jain with complaint turned friendship, opened paths that were not supposed to exist. This gave Lavro the chance to look inside the purse: a security key, a programme, and a name—Lady Magnolia Kae. When she smiled as she passed, Lavro took the smile for what it might be—entrance.
+In the private box, Lavro found a purse left in deliberate proximity—left, as the mind of a man who views things as nodes, a test for attention. Dali distracted and charmed the omnipresent Jain with complaint turned friendship, opened paths that were not supposed to exist. This gave Lavro the chance to look inside the purse: a security key, a programme, and a name—Lady Magnolia Kae. When she smiled as she passed, Lavro took the smile for what it might be—entrance.
 
-The Emperor arrived late, for lateness was also a manner of measure; presence weighed more than punctuality. His applause consecrated House Varmoth as a curiosity and, for a moment, as an asset. The production, macabre and comic, fed the Court the legend of Corrino supremacy in laughter and staged blood: an entertainment that taught history and smoothed conscience. 
+Padishsh Emperor Shaddam Corrino IV arrived late, for lateness was also a manner of measure; presence weighed more than punctuality. His applause consecrated House Varmoth as a curiosity and, for a moment, as an asset. The Emperor proclaimed, “Tonight we have some honoured guests! I warmly welcome House Varmoth to Kaitain. They have bright their expertise to Arrakis and have become a worthy addition to the spice mining operations for some time now! Now please all enjoy the show, so expertly curated by House Morgan!” 
+
+The production, macabre and comic, fed the Court the legend of Corrino supremacy in laughter and staged blood: an entertainment that taught history and smoothed conscience. 
 
 Later at the evening reception, Lavro approached Lady Kae, who suggested they talk somewhere more private. Hassan saw that a distraction was needed and, with the modest, officious courage of the servant who is a spy’s apprentice, steered Lela away with manufactured alarm and thus cleared a line for Lavro.
 
@@ -40,37 +42,44 @@ Suddenly, a metallic sound rang throughout the Mausoleum. The Reverend Mother Mo
 
 Back at the after-party, the observation deck thrummed with courtly predators. Lundrak floated to Lord Morgan and, with the practised economy of a man who trades in influence, persuaded the Lord to consider the marriage of his daughter to Count Lucar as a political union of their Houses to strengthen both. Morgan, who had risen on information rather than industry, listened as one who kept receipts of scandal. He would find dirt on Alexin, he promised. Promises at Court are currency, and Lundrak collected them.
 
-The morning at the Contemplation Tea House was a lesson in private light. The gardens there are arranged so that the right conversation is inaudible to all but the intended ear. Count Fenring found them not by accident; he always finds what men hope to hide. He spoke in stuttering, deliberate halves—an assassin’s smile under a friend’s hand. Fenring foretold a plot—Godwyn Alexin would move to bring a no-confidence vote. He suggested support or else face a fate that would be humiliating for the Emperor and ruinous for them. Fenring’s counsel came with that peculiar intimacy of one who knows how the body of Empire might be opened for a sword.
+The morning after at the Contemplation Tea House was a lesson in private light. The gardens there are arranged so that the right conversation is inaudible to all but the intended ear. Count Fenring found them not by accident; he always finds what men hope to hide. He spoke in stuttering, deliberate halves—an assassin’s smile under a friend’s hand. Fenring foretold a plot—Godwyn Alexin would move to bring a no-confidence vote. He suggested support or else face a fate that would be humiliating for the Emperor and ruinous for them. Fenring’s counsel came with that peculiar intimacy of one who knows how the body of Empire might be opened for a sword.
 
 Lady Caranda Ecaz approached the table like an accusation of elegance. Kleya read her like a book, noting her Bene Gesserit training. 
 
-Lady Ecaz brought out a deck of Tarot cards and shuffled the cards loosely, with a wavering but practised grasp.
-![](../../imgs/Tarot%20Back.png)
+Lady Ecaz brought out a deck of Tarot cards and shuffled the cards loosely, with a wavering but practised grasp.  
+
+![](../../imgs/Tarot%20Back.png)  
+
 She explained: “I know that these are somewhat of a superstition, but I have found that the cards often provide non-intuitive
 insights and the seeming patterns that emerge to be quite useful. I turned to them often in my convalescence, and they brought me great comfort. Please…”
 
 She asked Kleya to cut the cards for her into three groups, then to stack them again.
 “The first card represents your past.”
 
-She drew the first card: ![](../../imgs/Tarot%20Card%201.png)
+She drew the first card:  
+![](../../imgs/Tarot%20Card%201.png)  
+
 “This is ‘Iudicium’. Judgment… but reversed.” she reads, the card depicting a roiling cloud above a verdant plain, some sort of angelic being looking down from afar, beckoning to what look like peasants gathered
 below, looking at one another. “You were given an opportunity to prove yourself, a great honour bestowed upon you, yet the reversal means that many sought you
 to fail. It is possible, even, that the one who put the test before you was not an advocate for your success. But this, I think, you know, or should at least suspect.” 
 
-“Draw the second card.”![](../../imgs/Tarot%20Card%202.png)
-The next card is drawn, revealing a gaunt figure, almost skeletal, swathed in a billowing black robe and hood. It stands upon a small boat on a river, the shore
+“Draw the second card.”  
+![](../../imgs/Tarot%20Card%202.png)  
+
+The card revealed a gaunt figure, almost skeletal, swathed in a billowing black robe and hood. It stands upon a small boat on a river, the shore
 visible in the distance, navigating by the use of a long pole. Corpses float in the water around the boat.
 “Your current circumstances: ‘Terminus’, or Death. A grim card, but also one of transformation. You have faced great loss, and yet you are changed, growing to
 accommodate this tragedy. The other shore beckons, but you are still in the river.”
 
-“A third card, please.”
-![](../../imgs/Tarot%20Card%203.png)
+“A third card, please.”  
+
+![](../../imgs/Tarot%20Card%203.png)  
+
 “This depicts that which stands in your future, either that which you must overcome, or that which you must become.” This final card depicts an old man in regal garments, his beard long and white, sitting upon a golden throne, a crown upon his head. In one hand is a bejewelled ball with a small symbol upon it, the other hand holds a short scepter with a flared head, crossed over his breast.
 
 From the position of the card, though, it is upside down. Lady Ecaz’s breath hisses through her teeth. “Imperator. The Emperor. Master of all things. The most formidable opponent one can face, or a grand
 destiny. But reversed is an interesting position. It implies cunning and deception, perhaps no true path to this
-state, but also denotes a lack of faith. Perhaps if the Emperor opposes you through proxies, it is part of some greater scheme yet to be revealed. Or perhaps it is the
-Imperium itself this card stands for.”
+state, but also denotes a lack of faith. Perhaps if the Emperor opposes you through proxies, it is part of some greater scheme yet to be revealed. Or perhaps it reveals a hidden ambition for House Varmoth to rule the Imperium.”
 
 She sits back, pushing the rest of the cards aside. “Enough, though. I thirst, then let’s talk business.”
 

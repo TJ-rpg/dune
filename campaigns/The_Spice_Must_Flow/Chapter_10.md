@@ -11,7 +11,7 @@ template: 0.4
 ---
 {% include header_directories.md %}  
 
-“It is not wise to go against my desires. You should not deny me the least thing.” - Padishah Emperor Shaddam Corrino IV
+*“It is not wise to go against my desires. You should not deny me the least thing.”* - Padishah Emperor Shaddam Corrino IV
 
 Godwyn Alexin’s accusation hung in the chamber like a thrown gauntlet: “House Varmoth has betrayed the trust placed in them on Arrakis… I move that House Varmoth’s spice mining rights be revoked immediately.” The Directorship’s white-and-black-ball ritual would be decisive. President Aru called a recess, and the members of House Varmoth held their breath.
 
@@ -111,4 +111,8 @@ Lundrak continued his own dark liturgies—secrets and eliminations, bargains an
 
 In the end, House Varmoth’s fall read like a parable the Imperium would cite: aspiration can be welded to hubris; alliances are fragile threads; the desert accepts no easy triumph. The Varmoth sigil—moth-and-lightning—remained a proud, melancholy icon in their bastials. They had flown high and fallen hard. They had tasted the Emperor’s favour and felt his denial. They had learned that votes can be won and wars lost; that a thin majority in ivory chambers is a poor substitute for the discipline of arms and the steadiness of armoured diplomacy. They returned to Thundäruk with fewer allies, a broken claim, and a new leader who would govern with restraint.
 
-Lady Kleya, perched above steaming maps and reports, looked out over her chrysalis city as a storm gathered on the edge of the world. She felt the chill of the future like a moth’s wing against her skin: fragile, delicate, but capable of holding light. House Varmoth would live. It would not, however, grasp the crown. The moth’s wings be
+Lady Kleya, perched above steaming maps and reports, looked out over her chrysalis city as a storm gathered on the edge of the world. She felt the chill of the future like a moth’s wing against her skin: fragile, delicate, but capable of holding light. 
+
+Kleya thought of an ancient wisdom to focus her mind: "It is impossible to live in the past, difficult to live in the present and a waste to live in the future."
+
+House Varmoth would live. The moth’s wings beat on.

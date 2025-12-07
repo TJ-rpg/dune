@@ -20,3 +20,4 @@ footer_content:
 [Chapter 7](Chapter_7.md)  
 [Chapter 8](Chapter_8.md)  
 [Chapter 9](Chapter_9.md)  
+[Chapter 10](Chapter_10.md)  

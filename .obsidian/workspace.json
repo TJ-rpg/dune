@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/The_Spice_Must_Flow/Chapter_10.md",
+                "file": "directory/Houses/House_Varmoth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter_10"
+              "title": "House_Varmoth"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "413695b794405596",
   "lastOpenFiles": [
+    "campaigns/The_Spice_Must_Flow/Chapter_10.md",
     "directory/Locations/Wallach_IX.md",
     "directory/Locations/Cielago_Depression.md",
     "directory/Locations/Giedi_Prime.md",
@@ -182,7 +183,6 @@
     "campaigns/The_Spice_Must_Flow/Prelude.md",
     "campaigns/The_Spice_Must_Flow/index.md",
     "campaigns/The_Spice_Must_Flow/Chapter_4.md",
-    "campaigns/The_Spice_Must_Flow/Chapter_10.md",
     "campaigns/The_Spice_Must_Flow/Chapter_5.md",
     "campaigns/The_Spice_Must_Flow/Chapter_6.md",
     "campaigns/The_Spice_Must_Flow/Chapter_7.md",
